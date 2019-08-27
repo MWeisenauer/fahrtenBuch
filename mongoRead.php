@@ -6,16 +6,16 @@
 <body> 
  <?php
   error_reporting (E_ALL);
-  echo "Ich bin oben.."."<br>";
+  echo "Ich bin oben.."."<br>"; Hättest du gerne
   //$m = new MongoDB\Driver\Manager('mongodb://localhost:27017');
   $m = new MongoDB\Driver\Manager('mongodb+srv://MWeisenauer:Adenauer@timetec-bzlfs.mongodb.net/test?retryWrites=true');
-  
+
   //Von der Datenbank wir alles ausgegebe
   //$query = new MongoDB\Driver\Query([]);
-  
+
   //Suchen nach einem z.B. Vornamen
-  //$filter = ['Vorname' => 'Martina']; 
-  
+  //$filter = ['Vorname' => 'Martina'];
+
   //suchen nach einer bestimmten _id
   $filter = ['_id' => new MongoDB\BSON\ObjectId("5c8e02c11c9d44000028777b")];
 
@@ -29,4 +29,3 @@
  ?>
 </body>
 </html>
- 
