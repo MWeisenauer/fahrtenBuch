@@ -1,0 +1,704 @@
+startWochentag;startDatum;startKM;startOrt;endeWochentag;endeDatum;endeKM;endeOrt;ereignis;bemerkung
+Tue;04.12.2018.05:50;160235;Kanalstrasse - KL;Tue;04.12.2018.06:35;160309;Bismarkstrasse 36, Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;03.12.2018.18:30;160216;TimeTec - Queidersbach;Mon;03.12.2018.19:00;160235;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;03.12.2018.16:20;160154;VKB - Saarbrücken;Mon;03.12.2018.17:10;160216;TimeTec - Queidersbach;Fahrt;OBD2 Testfahrt iOS Programmierung, Steuer, Bank
+Mon;03.12.2018.05:50;160077;Kanalstrasse - KL;Mon;03.12.2018.06:35;160154;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Fri;30.11.2018.15:00;159921;VKB - Saarbrücken;Fri;30.11.2018.16:00;160000;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Fri;30.11.2018.06:00;159857;TimeTec - Queidersbach;Fri;30.11.2018.06:45;159921;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Thu;29.11.2018.16:07;159795;VKB - Saarbrücken;Thu;29.11.2018.17:00;159857;TimeTec - Queidersbach;Fahrt;OBD2 Testfahrt iOS Programmierung, Buchhaltung
+Thu;29.11.2018.06:07;159719;Kanalstrasse - KL;Thu;29.11.2018.06:50;159795;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;28.11.2018.15:15;159583;VKB - Saarbrücken ;Wed;28.11.2018.16:00;159658;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;28.11.2018.05:55;159508;Kanalstrasse - KL;Wed;28.11.2018.06:45;159583;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Tue;27.11.2018.19:20;159506;HEM - Kaiserslautern;Tue;27.11.2018.19:35;159508;Kanalstrasse - KL;Fahrt;
+Tue;27.11.2018.19:00;159504;Kanalstrasse - KL;Tue;27.11.2018.19:05;159506;HEM - Kaiserslautern;Fahrt;HEM - Tankstelle Kaiserlautern
+Tue;27.11.2018.16:00;159420;VKB - Saarbrücken;Tue;27.11.2018.16:50;159504;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung, Baustellenumfahrung in SB,
+Tue;27.11.2018.05:50;159344;Kanalstrasse - KL;Tue;27.11.2018.06:35;159420;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;26.11.2018.18:30;159323;TimeTec - Queidersbach;Mon;26.11.2018.18:55;159344;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;26.11.2018.15:00;159262;VKB - Saarbrücken;Mon;26.11.2018.15:50;159323;TimeTec - Queidersbach;Fahrt;Banktermin in Queidersbach, Buchhaltung, Briefe
+Mon;26.11.2018.05:50;159188;Kanalstrasse - KL;Mon;26.11.2018.06:30;159262;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Fri;23.11.2018.15:10;159024;VKB - Saarbrücken;Fri;23.11.2018.16:15;159099;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Fri;23.11.2018.05:56;158948;Kanalstrasse - KL;Fri;23.11.2018.06:40;159024;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Thu;22.11.2018.16:09;158873;VKB - Saarbrücken;Thu;22.11.2018.17:17;158948;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Thu;22.11.2018.05:57;158797;Kanalstrasse 53;Thu;22.11.2018.06:43;158873;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;21.11.2018.15:00;158722;VKB - Saarbrücken;Wed;21.11.2018.16:00;158797;Kanalstrasse 53;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;21.11.2018.05:50;158648;Kanalstrasse - KL;Wed;21.11.2018.06:40;158722;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Tue;20.11.2018.18:00;158645;JET - Kaiserslautern;Tue;20.11.2018.08:05;158648;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Tue;20.11.2018.17:45;158627;TimeTec - Queidersbach;Tue;20.11.2018.17:55;158645;JET - Kaiserslautern;Fahrt;Tankfahrt
+Tue;20.11.2018.16:00;158518;VKB - Saarbrücken;Tue;20.11.2018.16:50;158582;TimeTec - Queidersbach;Fahrt;Bank, Buchhaltung
+Tue;20.11.2018.05:50;158442;Kanalstrasse - KL;Tue;20.11.2018.06:35;158518;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;19.11.2018.17:00;158427;Rittersbacher - Landstuhl;Mon;19.11.2018.17:45;158442;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Mon;19.11.2018.15:50;158372;VKB - Saarbrücken;Mon;19.11.2018.16:55;158427;Rittersbacher - Landstuhl;Fahrt;Herr Zinselors Begutachtung Unfall vom 03.11.2018 in der Kanalstrasse
+Mon;19.11.2018.05:50;158297;Kanalstrasse - KL;Mon;19.11.2018.06:35;158372;VKB - Saarbrücken;Fahrt;
+Fri;16.11.2018.15:15;158126;VKB - Saarbrücken;Fri;16.11.2018.16:15;158201;Kanalstrasse - KL;Fahrt;
+Fri;16.11.2018.06:05;158052;Kanalstrasse - KL;Fri;16.11.2018.06:45;158126;VKB - Saarbrücken;Fahrt;
+Tue;13.11.2018.16:00;157975;VKB - Saarbrücken;Tue;13.11.2018.16:50;158052;Kanalstrasse - KL;Fahrt;
+Tue;13.11.2018.06:00;157900;Kanalstrasse - KL;Tue;13.11.2018.06:50;157975;VKB - Saarbrücken;Fahrt;
+Mon;12.11.2018.16:20;157825;VKB - Saarbrücken;Mon;12.11.2018.18:15;157900;Kanalstrasse - KL;Fahrt;
+Mon;12.11.2018.05:50;157749;Kanalstrasse - KL;Mon;12.11.2018.06:35;157825;VKB - Saarbrücken;Fahrt;
+Fri;09.11.2018.15:00;157624;VKB - Saarbrücken;Fri;09.11.2018.16:00;157700;Kanalstrasse - KL;Fahrt;
+Fri;09.11.2018.05:55;157549;Kanalstrasse - KL;Fri;09.11.2018.06:35;157624;VKB - Saarbrücken;Fahrt;
+Thu;08.11.2018.19:15;157475;VKB - Saarbrücken;Thu;08.11.2018.20:00;157549;Kanalstrasse - KL;Fahrt;
+Thu;08.11.2018.05:55;157400;Kanalstrasse - KL;Thu;08.11.2018.06:35;157475;VKB - Saarbrücken;Fahrt;
+Wed;07.11.2018.16:30;157325;VKB - Saarbrücken;Wed;07.11.2018.18:00;157400;Kanalstrasse - KL;Fahrt;
+Wed;07.11.2018.05:50;157251;Kanalstrasse - KL;Wed;07.11.2018.06:45;157325;VKB - Saarbrücken;Fahrt;
+Tue;06.11.2018.16:20;157175;VKB - Saarbrücken;Tue;06.11.2018.18:00;157251;Kanalstrasse - KL;Fahrt;
+Tue;06.11.2018.05:50;157100;Kanalstrasse - KL;Tue;06.11.2018.06:35;157175;VKB - Saarbrücken;Fahrt;
+Mon;05.11.2018.16:30;157024;VKB - Saarbrücken;Mon;05.11.2018.17:45;157100;Kanalstrasse - KL;Fahrt;
+Mon;05.11.2018.05:53;156949;Kanalstrasse - KL;Mon;05.11.2018.06:35;157024;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;31.10.2018.16:30;156757;VKB - Saarbrücken;Wed;31.10.2018.17:45;156834;Kanalstrasse - KL;Fahrt;
+Wed;31.10.2018.05:50;156682;Kanalstrasse - KL;Wed;31.10.2018.06:45;156757;VKB - Saarbrücken;Fahrt;
+Tue;30.10.2018.16:20;156606;VKB - Saarbrücken;Tue;30.10.2018.17:20;156682;Kanalstrasse - KL;Fahrt;
+Tue;30.10.2018.05:50;156530;Kanalstrasse - KL;Tue;30.10.2018.06:30;156606;VKB - Saarbrücken;Fahrt;
+Mon;29.10.2018.16:00;156513;Steuer - Koper;Mon;29.10.2018.17:00;156530;Kanalstrasse - KL;Fahrt;
+Mon;29.10.2018.13:50;156455;VKB - Saarbrücken;Mon;29.10.2018.14:45;156513;Steuer - Koper;Fahrt;Steuerberater Koper in Landstuhl
+Mon;29.10.2018.05:55;156379;Kanalstrasse - KL;Mon;29.10.2018.06:35;156455;VKB - Saarbrücken;Fahrt;
+Fri;26.10.2018.14:45;156231;VKB - Saarbrücken ;Fri;26.10.2018.16:00;156305;Kanalstrasse - KL;Fahrt;
+Fri;26.10.2018.05:50;156156;Kanalstrasse - KL;Fri;26.10.2018.06:35;156231;VKB - Saarbrücken ;Fahrt;
+Thu;25.10.2018.16:45;156081;VKB - Saarbrücken;Thu;25.10.2018.18:30;156156;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Thu;25.10.2018.05:50;156005;Kanalstrasse - KL;Thu;25.10.2018.06:35;156081;VKB - Saarbrücken;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;24.10.2018.16:15;155930;VKB - Saarbrücken;Wed;24.10.2018.17:30;156005;Kanalstrasse - KL;Fahrt;OBD2 Testfahrt iOS Programmierung
+Wed;24.10.2018.05:50;155856;Kanalstrasse - KL;Wed;24.10.2018.06:30;155930;VKB - Saarbrücken;Fahrt;
+Fri;19.10.2018.16:00;155707;VKB - Saarbrücken;Fri;19.10.2018.17:00;155781;Kanalstrasse - KL;Fahrt;
+Fri;19.10.2018.05:55;155634;Kanalstrasse - KL;Fri;19.10.2018.06:40;155707;VKB - Saarbrücken;Fahrt;
+Thu;18.10.2018.17:00;155559;VKB - Saarbrücken ;Thu;18.10.2018.18:30;155634;Kanalstrasse - KL;Fahrt;
+Thu;18.10.2018.06:50;155485;Kanalstrasse 53;Thu;18.10.2018.06:35;155559;VKB - Saarbrücken ;Fahrt;
+Wed;17.10.2018.16:30;155410;VKB - Saarbrücken;Wed;17.10.2018.17:30;155485;Kanalstrasse 53;Fahrt;
+Wed;17.10.2018.05:55;155335;Kanalstrasse - KL;Wed;17.10.2018.06:35;155410;VKB - Saarbrücken;Fahrt;
+Tue;16.10.2018.16:15;155259;VKB - Saarbrücken ;Tue;16.10.2018.17:15;155335;Kanalstrasse - KL;Fahrt;Fahrt über TimeTec Buchhaltung, Post, Kotoauszuüge
+Tue;16.10.2018.05:53;155184;Kanalstrasse - KL;Tue;16.10.2018.06:40;155259;VKB - Saarbrücken ;Fahrt;
+Mon;15.10.2018.15:50;155110;VKB - Saarbrücken ;Mon;15.10.2018.17:00;155184;Kanalstrasse - KL;Fahrt;
+Mon;15.10.2018.05:50;155035;Kanalstrasse - KL;Mon;15.10.2018.06:40;155110;VKB - Saarbrücken;Fahrt;
+Fri;12.10.2018.15:30;154889;VKB - Saarbrücken;Fri;12.10.2018.16:30;154965;Kanalstrasse - KL;Fahrt;
+Fri;12.10.2018.05:50;154815;Kanalstrasse - KL;Fri;12.10.2018.06:40;154889;VKB - Saarbrücken;Fahrt;
+Thu;11.10.2018.18:00;154741;VKB - Saarbrücken;Thu;11.10.2018.18:45;154815;Kanalstrasse - KL;Fahrt;
+Thu;11.10.2018.05:50;154666;Kanalstrasse - KL;Thu;11.10.2018.06:40;154741;VKB - Saarbrücken;Fahrt;
+Wed;10.10.2018.16:30;154590;VKB - Saarbrücken;Wed;10.10.2018.17:30;154666;Kanalstrasse - KL;Fahrt;
+Wed;10.10.2018.05:50;154515;Kanalstrasse - KL;Wed;10.10.2018.06:30;154590;VKB - Saarbrücken;Fahrt;
+Tue;09.10.2018.17:00;154440;VKB - Saarbrücken;Tue;09.10.2018.18:10;154515;Kanalstrasse - KL;Fahrt;
+Tue;09.10.2018.05:50;154364;Kanalstrasse - KL;Tue;09.10.2018.06:30;154440;VKB - Saarbrücken;Fahrt;
+Mon;08.10.2018.16:30;154288;VKB - Saarbrücken ;Mon;08.10.2018.17:45;154364;Kanalstrasse - KL;Fahrt;
+Mon;08.10.2018.05:50;154214;Kanalstrasse - KL;Mon;08.10.2018.06:40;154288;VKB - Saarbrücken ;Fahrt;
+Fri;05.10.2018.15:30;154042;VKB - Saarbrücken ;Fri;05.10.2018.16:15;154120;Kanalstrasse - 53;Fahrt;
+Fri;05.10.2018.05:55;153966;Kanalstrasse - 53;Fri;05.10.2018.06:30;154042;VKB - Saarbrücken ;Fahrt;
+Thu;04.10.2018.16:30;153891;VKB - Saarbrücken ;Thu;04.10.2018.17:15;153966;Kanalstrasse - 53;Fahrt;
+Thu;04.10.2018.05:50;153816;Kanalstrasse - 53;Thu;04.10.2018.06:30;153891;VKB - Saarbrücken ;Fahrt;
+Wed;03.10.2018.16:15;153742;VKB - Saarbrücken ;Wed;03.10.2018.17:30;153816;Kanalstrasse - KL;Fahrt;
+Wed;03.10.2018.05:55;153666;Kanalstrasse - KL;Wed;03.10.2018.06:30;153742;VKB - Saarbrücken ;Fahrt;Projektbesprechung - weitere Fahren nach München 
+Tue;02.10.2018.16:00;153590;VKB - Saarbrücken;Tue;02.10.2018.17:15;153666;Kanalstrasse - KL;Fahrt;
+Tue;02.10.2018.05:50;153513;Kanalstrasse - KL;Tue;02.10.2018.06:30;153590;VKB - Saarbrücken;Fahrt;
+Mon;01.10.2018.16:15;153438;VKB - Saarbrücken;Mon;01.10.2018.17:15;153513;Kanalstrasse - KL;Fahrt;
+Mon;01.10.2018.05:50;153362;Kanalstrasse - KL;Mon;01.10.2018.06:35;153438;VKB - Saarbrücken;Fahrt;
+Fri;28.09.2018.16:30;153287;VKB - Saarbrücken ;Fri;28.09.2018.17:45;153362;Kanalstrasse - KL;Fahrt;Ueber TimeTec, Steuer, Post
+Fri;28.09.2018.05:55;153214;Kanalstrasse - KL;Fri;28.09.2018.06:45;153287;VKB - Saarbrücken ;Fahrt;
+Thu;27.09.2018.16:15;153141;VKB - Saarbrücken ;Thu;27.09.2018.17:35;153214;Kanalstrasse - KL;Fahrt;
+Thu;27.09.2018.05:50;153065;Kanalstrasse - KL;Thu;27.09.2018.06:40;153141;VKB - Saarbrücken ;Fahrt;
+Wed;26.09.2018.16:15;152991;VKB - Saarbrücken ;Wed;26.09.2018.19:01;153065;Kanalstrasse - KL;Fahrt;
+Wed;26.09.2018.05:55;152915;Kanalstrasse - KL;Wed;26.09.2018.06:35;152991;VKB - Saarbrücken ;Fahrt;
+Tue;25.09.2018.16:15;152838;VKB - Saarbrücken;Tue;25.09.2018.17:00;152915;Kanalstrasse - KL;Fahrt;
+Tue;25.09.2018.05:50;152764;Kanalstrasse - KL;Tue;25.09.2018.06:30;152838;VKB - Saarbrücken;Fahrt;
+Mon;24.09.2018.17:00;152691;VKB - Saarbrücken;Mon;24.09.2018.18:20;152764;Kanalstrasse - KL;Fahrt;Fahrt über Firma TimeTec - Post, Steuerunterlagen
+Mon;24.09.2018.05:50;152619;Kanalstrasse - KL;Mon;24.09.2018.06:40;152691;VKB - Saarbrücken;Fahrt;
+Fri;21.09.2018.18:30;152264;VKB - Saarbrücken ;Fri;21.09.2018.20:00;152337;Kanalstrasse - KL;Fahrt;Fahrt über TimeTec -  Post, Steuerunterlagen, Buchhaltung
+Fri;21.09.2018.05:54;152192;Kanalstrasse - KL;Fri;21.09.2018.06:45;152264;VKB - Saarbrücken ;Fahrt;
+Thu;20.09.2018.16:00;152000;VKB - Saarbrücken;Thu;20.09.2018.16:59;152077;Kanalstrasse - KL;Fahrt;
+Thu;20.09.2018.05:55;151924;Kanalstrasse - KL ;Thu;20.09.2018.06:35;152000;VKB - Saarbrücken;Fahrt;
+Wed;19.09.2018.16:00;151847;VKB - Saarbrücken;Wed;19.09.2018.18:00;151924;Kanalstrasse - KL ;Fahrt;Über TimeTec - Post, Steuerunterlagen
+Wed;19.09.2018.05:50;151772;Kanalstrasse - KL;Wed;19.09.2018.06:40;151847;VKB - Saarbrücken;Fahrt;
+Tue;18.09.2018.17:30;151696;VKB - Saarbrücken ;Tue;18.09.2018.18:30;151772;Kanalstrasse - KL;Fahrt;Fahrt über die Tankstelle HEM - Kaiserslautern
+Tue;18.09.2018.05:50;151620;Kanalstrasse - KL;Tue;18.09.2018.06:40;151696;VKB - Saarbrücken ;Fahrt;
+Mon;17.09.2018.15:30;151544;VKB - Saarbrücken ;Mon;17.09.2018.19:25;151620;Kanalstrasse - KL;Fahrt;
+Mon;17.09.2018.05:45;151470;Kanalstrasse - KL;Mon;17.09.2018.06:30;151544;VKB - Saarbrücken ;Fahrt;
+Fri;14.09.2018.12:30;151184;VKB - Saarbrücken ;Fri;14.09.2018.15:30;151269;Kanalstrasse - KL;Fahrt;Fahrt ging über Firma TimeTec - Buchhaltungsunterlagen
+Fri;14.09.2018.05:50;151109;Kanalstraße - KL;Fri;14.09.2018.06:40;151184;VKB - Saarbrücken ;Fahrt;
+Thu;13.09.2018.16:30;151027;VKB - Saarbrücken;Thu;13.09.2018.20:45;151109;Kanalstraße - KL;Fahrt;über TimeTec in Queidersbach 
+Thu;13.09.2018.05:50;150952;Kanalstrasse - KL;Thu;13.09.2018.06:30;151027;VKB - Saarbrücken;Fahrt;
+Wed;12.09.2018.16:15;150868;VKB - Saarbrücken;Wed;12.09.2018.21:15;150952;Kanalstrasse - KL;Fahrt;Weg ging über die Firma TimeTec - Buchhaltungsunterlagen - Überweisungen erstellen
+Wed;12.09.2018.05:50;150795;Kanalstrasse - KL;Wed;12.09.2018.06:35;150868;VKB - Saarbrücken;Fahrt;
+Tue;11.09.2018.16:30;150721;VKB - Saarbrücken;Tue;11.09.2018.17:15;150795;Kanalstrasse - KL;Fahrt;
+Tue;11.09.2018.05:50;150647;Kanalstrasse - KL;Tue;11.09.2018.06:40;150721;VKB - Saarbrücken;Fahrt;
+Fri;07.09.2018.15:10;150490;VKB - Saarbrücken;Fri;07.09.2018.16:00;150563;Kanalstrasse - KL;Fahrt;
+Fri;07.09.2018.05:50;150414;Kanalstrasse - KL;Fri;07.09.2018.06:40;150490;VKB - Saarbrücken;Fahrt;
+Thu;06.09.2018.16:15;150339;VKB - Saarbrücken;Thu;06.09.2018.17:10;150414;Kanalstrasse - KL;Fahrt;
+Thu;06.09.2018.05:50;150264;Kanalstrasse - KL;Thu;06.09.2018.06:45;150339;VKB - Saarbrücken;Fahrt;
+Wed;05.09.2018.16:30;150190;VKB - Saarbrücken;Wed;05.09.2018.17:20;150264;Kanalstrasse - KL;Fahrt;
+Wed;05.09.2018.05:50;150115;Kanalstrasse - KL;Wed;05.09.2018.06:40;150190;VKB - Saarbrücken;Fahrt;
+Tue;04.09.2018.16:30;150039;VKB - Saarbrücken;Tue;04.09.2018.17:30;150115;Kanalstrasse - KL;Fahrt;
+Tue;04.09.2018.05:45;149963;Kanalstrasse - KL;Tue;04.09.2018.06:45;150039;VKB - Saarbrücken;Fahrt;
+Mon;03.09.2018.16:45;149887;VKB - Saarbrücken;Mon;03.09.2018.17:45;149963;Kanalstrasse - KL;Fahrt;
+Mon;03.09.2018.05:45;149810;Kanalstrasse - KL;Mon;03.09.2018.06:45;149887;VKB - Saarbrücken;Fahrt;
+Fri;17.08.2018.15:30;148375;VKB - Saarbrücken;Fri;17.08.2018.16:30;148442;TimeTec - Queidersbach;Fahrt;
+Fri;17.08.2018.05:45;148309;TimeTec - Queidersbach;Fri;17.08.2018.06:45;148375;VKB - Saarbrücken;Fahrt;
+Thu;16.08.2018.17:15;148242;VKB - Saarbrücken;Thu;16.08.2018.18:00;148309;TimeTec - Queidersbach;Fahrt;
+Thu;16.08.2018.05:45;148176;TimeTec - Queidersbach;Thu;16.08.2018.06:30;148242;VKB - Saarbrücken;Fahrt;
+Wed;15.08.2018.15:00;147674;Primas - Wolfsburg;Wed;15.08.2018.20:00;148176;TimeTec - Queidersbach;Fahrt;
+Wed;15.08.2018.12:00;147669;BZN - Wolfsburg;Wed;15.08.2018.12:15;147674;Primas - Wolfsburg;Fahrt;
+Wed;15.08.2018.10:00;147663;Primas - Wolfsburg;Wed;15.08.2018.10:15;147669;BZN - Wolfsburg;Fahrt;
+Tue;14.08.2018.16:00;147657;BZN - Wolfsburg;Tue;14.08.2018.16:20;147663;Primas - Wolfsburg;Fahrt;
+Tue;14.08.2018.11:15;147652;Primas - Wolfsburg;Tue;14.08.2018.11:45;147657;BZN - Wolfsburg;Fahrt;
+Mon;13.08.2018.14:00;147646;BZN - Wolfsburg;Mon;13.08.2018.14:20;147652;Primas - Wolfsburg;Fahrt;
+Mon;13.08.2018.08:15;147642;Primas - Wolfsburg;Mon;13.08.2018.08:30;147646;BZN - Wolfsburg;Fahrt;
+Sun;12.08.2018.16:00;147176;TimeTec - Queidersbach;Sun;12.08.2018.19:45;147642;Primas - Wolfsburg;Fahrt;Mehrere Umleitungen in den Kassler Bergen, dadurch direkteren Fahrweg nach Wolfsburg
+Fri;10.08.2018.16:45;147080;VKB - Saarbrücken;Fri;10.08.2018.17:30;147146;TimeTec - Queidersbach;Fahrt;
+Fri;10.08.2018.06:00;147013;TimeTec - Queidersbach;Fri;10.08.2018.06:45;147080;VKB - Saarbrücken;Fahrt;
+Thu;09.08.2018.16:30;146948;VKB - Saarbrücken;Thu;09.08.2018.17:45;147013;TimeTec - Queidersbach;Fahrt;
+Thu;09.08.2018.05:45;146884;TimeTec - Queidersbach;Thu;09.08.2018.06:45;146948;VKB - Saarbrücken;Fahrt;
+Wed;08.08.2018.15:00;146390;Primas - Wolfsburg;Wed;08.08.2018.20:15;146884;TimeTec - Queidersbach;Fahrt;
+Wed;08.08.2018.12:00;146386;BZN - Wolfsburg;Wed;08.08.2018.12:15;146390;Primas - Wolfsburg;Fahrt;
+Wed;08.08.2018.10:00;146382;Primas - Wolfsburg;Wed;08.08.2018.10:15;146386;BZN - Wolfsburg;Fahrt;
+Tue;07.08.2018.14:00;146378;BZN - Wolfsburg;Tue;07.08.2018.20:30;146382;Primas - Wolfsburg;Fahrt;
+Tue;07.08.2018.09:00;146375;Primas - Wolfsburg;Tue;07.08.2018.09:15;146378;BZN - Wolfsburg;Fahrt;
+Mon;06.08.2018.14:30;146370;BZN - Wolfsburg;Mon;06.08.2018.14:45;146375;Primas - Wolfsburg;Fahrt;
+Mon;06.08.2018.11:45;146366;Primas - Wolfsburg;Mon;06.08.2018.12:00;146370;BZN - Wolfsburg;Fahrt;
+Sun;05.08.2018.18:00;145864;TimeTec - Queidersbach;Sun;05.08.2018.22:15;146366;Primas - Wolfsburg;Fahrt;
+Fri;03.08.2018.16:30;145798;VKB - Saarbrücken;Fri;03.08.2018.17:45;145864;TimeTec - Queidersbach;Fahrt;
+Fri;03.08.2018.06:00;145733;TimeTec;Fri;03.08.2018.06:45;145798;VKB - Saarbrücken;Fahrt;
+Thu;02.08.2018.19:00;145665;VKB - Saarbrücken;Thu;02.08.2018.19:50;145733;TimeTec;Fahrt;
+Thu;02.08.2018.06:00;145600;TimeTec;Thu;02.08.2018.06:45;145665;VKB - Saarbrücken;Fahrt;
+Mon;30.07.2018.16:00;144865;Leonardo Hotel Muenchen;Mon;30.07.2018.10:53;145298;TimeTec;Fahrt;
+Sun;29.07.2018.14:45;144433;TimeTec;Sun;29.07.2018.19:00;144865;Leonardo Hotel Muenchen;Fahrt;VKB - Muenchen - Herrn Albert Harz
+Fri;27.07.2018.16:00;144368;VKB - Saarbrücken;Fri;27.07.2018.16:50;144433;TimeTec;Fahrt;
+Fri;27.07.2018.06:00;144303;TimeTec;Fri;27.07.2018.07:00;144368;VKB - Saarbrücken;Fahrt;
+Thu;26.07.2018.16:30;144240;VKB - Saarbrücken;Thu;26.07.2018.17:30;144303;TimeTec;Fahrt;
+Thu;26.07.2018.06:00;144175;TimeTec;Thu;26.07.2018.06:45;144240;VKB - Saarbrücken;Fahrt;
+Sat;21.07.2018.23:50;144031;JET - Kaiserslautern;Sat;21.07.2018.00:15;144050;TimeTec;Fahrt;
+Sat;21.07.2018.23:15;144012;TimeTec;Sat;21.07.2018.23:30;144031;JET - Kaiserslautern;Fahrt;
+Fri;20.07.2018.15:30;143827;VKB - Saarbrücken;Fri;20.07.2018.17:00;143892;TimeTec;Fahrt;Stau - Brueckenbaustelle bei Homburg
+Fri;20.07.2018.06:00;143760;TimeTec;Fri;20.07.2018.06:45;143827;VKB - Saarbrücken;Fahrt;
+Thu;19.07.2018.16:30;143695;VKB - Saarbrücken;Thu;19.07.2018.18:00;143760;TimeTec;Fahrt;Stau - Brueckenbaustelle bei Homburg
+Thu;19.07.2018.06:00;143630;TimeTec;Thu;19.07.2018.07:00;143695;VKB - Saarbrücken;Fahrt;
+Tue;17.07.2018.14:00;143136;Primas - WOB;Tue;17.07.2018.19:15;143630;TimeTec;Fahrt;
+Mon;16.07.2018.19:30;143134;ESSO - Pirali - WOB;Mon;16.07.2018.19:40;143136;Primas - WOB;Fahrt;
+Mon;16.07.2018.19:15;143133;Primas - WOB;Mon;16.07.2018.19:20;143134;ESSO - Pirali - WOB;Fahrt;
+Mon;16.07.2018.12:00;143128;BZN - Wolfsburg;Mon;16.07.2018.12:20;143133;Primas - WOB;Fahrt;
+Mon;16.07.2018.09:00;143124;Primas - WOB;Mon;16.07.2018.09:15;143128;BZN - Wolfsburg;Fahrt;
+Sun;15.07.2018.15:15;142630;TimeTec;Sun;15.07.2018.19:45;143124;Primas - WOB;Fahrt;
+Sat;14.07.2018.16:30;142613;JET - Kaiserslautern;Sat;14.07.2018.17:00;142630;TimeTec;Fahrt;
+Sat;14.07.2018.16:00;142595;TimeTec;Sat;14.07.2018.16:15;142613;JET - Kaiserslautern;Fahrt;
+Fri;13.07.2018.16:30;142530;VKB - Saarbrücken;Fri;13.07.2018.17:30;142595;TimeTec;Fahrt;
+Fri;13.07.2018.05:50;142463;TimeTec;Fri;13.07.2018.06:45;142530;VKB - Saarbrücken;Fahrt;
+Thu;12.07.2018.15:45;142396;VKB - Saarbrücken ;Thu;12.07.2018.16:30;142463;TimeTec;Fahrt;
+Thu;12.07.2018.06:00;142328;TimeTec;Thu;12.07.2018.06:50;142396;VKB - Saarbrücken ;Fahrt;
+Sat;07.07.2018.11:30;142280;Total Station - KL;Sat;07.07.2018.12:00;142300;TimeTec;Fahrt;
+Sat;07.07.2018.11:00;142262;TimeTec;Sat;07.07.2018.11:20;142280;Total Station - KL;Fahrt;
+Fri;06.07.2018.15:30;142192;VKB - Saarbrücken;Fri;06.07.2018.16:20;142262;TimeTec;Fahrt;
+Fri;06.07.2018.06:00;142124;TimeTec;Fri;06.07.2018.07:00;142192;VKB - Saarbrücken;Fahrt;
+Thu;05.07.2018.16:15;142058;VKB - Saarbrücken;Thu;05.07.2018.17:15;142124;TimeTec;Fahrt;
+Thu;05.07.2018.06:00;141993;TimeTec;Thu;05.07.2018.06:45;142058;VKB - Saarbrücken;Fahrt;
+Tue;03.07.2018.15:30;141494;Primas - WOB;Tue;03.07.2018.20:00;141993;TimeTec;Fahrt;
+Tue;03.07.2018.14:00;141489;BZN - Wolfsburg;Tue;03.07.2018.14:15;141494;Primas - WOB;Fahrt;
+Tue;03.07.2018.12:45;141485;Primas - WOB;Tue;03.07.2018.13:00;141489;BZN - Wolfsburg;Fahrt;
+Tue;03.07.2018.09:45;141479;BZN - Wolfsburg;Tue;03.07.2018.10:00;141485;Primas - WOB;Fahrt;
+Tue;03.07.2018.08:25;141475;Primas - WOB;Tue;03.07.2018.08:45;141479;BZN - Wolfsburg;Fahrt;
+Mon;02.07.2018.18:50;141473;ESSO - Pirali;Mon;02.07.2018.19:00;141475;Primas - WOB;Fahrt;
+Mon;02.07.2018.18:30;141471;Primas - WOB;Mon;02.07.2018.18:35;141473;ESSO - Pirali;Fahrt;
+Sun;01.07.2018.15:30;140969;TimeTec;Sun;01.07.2018.20:15;141471;Primas - WOB;Fahrt;
+Sat;30.06.2018.13:15;140950;ELAN Tankpunkt - KL;Sat;30.06.2018.14:00;140969;TimeTec;Fahrt;
+Sat;30.06.2018.12:30;140932;TimeTec;Sat;30.06.2018.12:50;140950;ELAN Tankpunkt - KL;Fahrt;
+Fri;29.06.2018.16:30;140862;VKB - Saarbrücken;Fri;29.06.2018.17:30;140932;TimeTec;Fahrt;
+Fri;29.06.2018.06:00;140794;TimeTec;Fri;29.06.2018.06:45;140862;VKB - Saarbrücken;Fahrt;
+Thu;28.06.2018.16:15;140726;VKB - Saarbrücken;Thu;28.06.2018.17:00;140794;TimeTec;Fahrt;
+Thu;28.06.2018.06:00;140658;TimeTec;Thu;28.06.2018.06:50;140726;VKB - Saarbrücken ;Fahrt;
+Tue;26.06.2018.15:30;140103;Primas - WOB;Tue;26.06.2018.20:20;140600;TimeTec;Fahrt;
+Tue;26.06.2018.15:15;140100;HEM - Wolfsburg;Tue;26.06.2018.15:20;140103;Primas - WOB;Fahrt;
+Tue;26.06.2018.15:00;140093;Hotz + Heidmann WOB;Tue;26.06.2018.15:05;140100;HEM - Wolfsburg;Fahrt;Hahrt zur Tankstelle 3 Km, Probefahrt bei Hotz und Heitmann 5 Km
+Mon;25.06.2018.12:30;140090;Primas - WOB;Mon;25.06.2018.12:45;140093;Hotz + Heidmann WOB;Fahrt;Auto zur Inspection gefahren
+Sun;24.06.2018.15:15;139606;TimeTec;Sun;24.06.2018.19:30;140090;Primas - WOB;Fahrt;Baustellenumleitung in den 'Kassler Bergen' dadurch einige KM gespart.
+Sat;23.06.2018.16:40;139589;Total - KL;Sat;23.06.2018.17:00;139606;TimeTec;Fahrt;
+Sat;23.06.2018.16:15;139571;TimeTec;Sat;23.06.2018.16:30;139589;Total - KL;Fahrt;
+Thu;21.06.2018.16:30;139501;VKB - Saarbrücken;Thu;21.06.2018.17:15;139571;TimeTec;Fahrt;
+Thu;21.06.2018.06:00;139434;TimeTec;Thu;21.06.2018.06:45;139501;VKB - Saarbrücken;Fahrt;
+Wed;20.06.2018.13:30;138929;Primas - WOB;Wed;20.06.2018.19:00;139434;TimeTec;Fahrt;
+Tue;19.06.2018.16:30;138926;ESSO - Pirali;Tue;19.06.2018.16:40;138929;Primas - WOB;Fahrt;
+Tue;19.06.2018.16:15;138924;Primas - WOB;Tue;19.06.2018.16:20;138926;ESSO - Pirali;Fahrt;
+Tue;19.06.2018.13:00;138919;BZN - Wolfsburg;Tue;19.06.2018.13:20;138924;Primas - WOB;Fahrt;
+Tue;19.06.2018.08:30;138915;Primas - WOB;Tue;19.06.2018.08:45;138919;BZN - Wolfsburg;Fahrt;
+Mon;18.06.2018.13:00;138909;BZN - Wolfsburg;Mon;18.06.2018.13:20;138915;Primas - WOB;Fahrt;
+Mon;18.06.2018.09:00;138905;Primas - WOB;Mon;18.06.2018.09:15;138909;BZN - Wolfsburg;Fahrt;
+Sun;17.06.2018.16:10;138414;HEM - Kaiserslautern;Sun;17.06.2018.20:30;138905;Primas - WOB;Fahrt;
+Sun;17.06.2018.15:30;138395;TimeTec;Sun;17.06.2018.15:45;138414;HEM - Kaiserslautern;Fahrt;
+Sat;16.06.2018.14:00;138326;VKB - Saarbrücken;Sat;16.06.2018.15:00;138395;TimeTec;Fahrt;
+Sat;16.06.2018.06:00;138258;TimeTec;Sat;16.06.2018.06:45;138326;VKB - Saarbrücken;Fahrt;Besprechung zur GoLive Release Date - VKB Anwendungen
+Fri;15.06.2018.12:00;138188;VKB - Saarbrücken;Fri;15.06.2018.12:45;138258;TimeTec;Fahrt;
+Fri;15.06.2018.06:00;138120;TimeTec;Fri;15.06.2018.07:00;138188;VKB - Saarbrücken;Fahrt;
+Thu;14.06.2018.17:15;138052;VKB - Saarbrücken;Thu;14.06.2018.18:00;138120;TimeTec;Fahrt;
+Thu;14.06.2018.06:00;137982;TimeTec;Thu;14.06.2018.06:45;138052;VKB - Saarbrücken;Fahrt;
+Wed;13.06.2018.09:30;137486;Primas - WOB;Wed;13.06.2018.14:00;137982;TimeTec;Fahrt;
+Mon;11.06.2018.15:50;137483;ESSO - Pirali;Mon;11.06.2018.16:00;137486;Primas - WOB;Fahrt;
+Mon;11.06.2018.15:40;137481;Primas - WOB;Mon;11.06.2018.15:45;137483;ESSO - Pirali;Fahrt;
+Mon;11.06.2018.11:00;137477;BZN - Wolfsburg;Mon;11.06.2018.11:30;137481;Primas - WOB;Fahrt;
+Mon;11.06.2018.08:00;137472;Primas - WOB;Mon;11.06.2018.08:20;137477;BZN - Wolfsburg;Fahrt;
+Sun;10.06.2018.15:40;136997;Total - KL;Sun;10.06.2018.20:00;137472;Primas - WOB;Fahrt;
+Sun;10.06.2018.15:15;136979;TimeTec;Sun;10.06.2018.15:30;136997;Total - KL;Fahrt;
+Fri;08.06.2018.16:30;136905;VKB - Saarbrücken;Fri;08.06.2018.18:00;136979;TimeTec;Fahrt;
+Fri;08.06.2018.06:00;136837;TimeTec;Fri;08.06.2018.07:00;136905;VKB - Saarbrücken;Fahrt;
+Thu;07.06.2018.16:15;136769;VKB - Saarbrücken;Thu;07.06.2018.17:00;136837;TimeTec;Fahrt;
+Thu;07.06.2018.06:00;136699;TimeTec;Thu;07.06.2018.06:45;136769;VKB - Saarbrücken;Fahrt;
+Wed;06.06.2018.20:40;136680;JET - Kaiserslautern;Wed;06.06.2018.21:00;136699;TimeTec;Fahrt;
+Wed;06.06.2018.20:15;136662;TimeTec;Wed;06.06.2018.20:30;136680;JET - Kaiserslautern;Fahrt;
+Fri;01.06.2018.15:30;136595;VKB - Saarbrücken;Fri;01.06.2018.16:30;136662;TimeTec;Fahrt;
+Fri;01.06.2018.06:00;136526;TimeTec;Fri;01.06.2018.07:00;136595;VKB - Saarbrücken;Fahrt;
+Thu;31.05.2018.16:30;136459;VKB - Saarbrücken;Thu;31.05.2018.17:30;136526;TimeTec;Fahrt;
+Thu;31.05.2018.06:00;136392;TimeTec;Thu;31.05.2018.06:45;136459;VKB - Saarbrücken;Fahrt;
+Tue;29.05.2018.15:00;135895;Primas - WOB;Tue;29.05.2018.20:15;136392;TimeTec;Fahrt;
+Tue;29.05.2018.10:00;135890;BZN - Wolfsburg;Tue;29.05.2018.10:30;135895;Primas - WOB;Fahrt;
+Tue;29.05.2018.07:30;135885;Primas - WOB;Tue;29.05.2018.07:45;135890;BZN - Wolfsburg;Fahrt;
+Mon;28.05.2018.16:30;135880;ESSO - Pirali;Mon;28.05.2018.16:45;135885;Primas - WOB;Fahrt;
+Mon;28.05.2018.16:15;135878;Primas - WOB;Mon;28.05.2018.16:20;135880;ESSO - Pirali;Fahrt;
+Mon;28.05.2018.15:30;135872;BZN - Wolfsburg;Mon;28.05.2018.15:50;135878;Primas - WOB;Fahrt;
+Mon;28.05.2018.13:00;135866;Primas - WOB;Mon;28.05.2018.13:15;135872;BZN - Wolfsburg;Fahrt;
+Sun;27.05.2018.16:40;135525;Wetterau Ost A5 - Tankstelle;Sun;27.05.2018.19:30;135866;Primas - WOB;Fahrt;
+Sun;27.05.2018.15:00;135367;TimeTec - Queidersbach;Sun;27.05.2018.16:30;135525;Wetterau Ost A5 - Tankstelle;Fahrt;
+Fri;25.05.2018.13:30;135249;VKB - Saarbrücken;Fri;25.05.2018.14:45;135314;TimeTec - Queidersbach;Fahrt;
+Fri;25.05.2018.06:16;135181;TimeTec - Queidersbach;Fri;25.05.2018.07:15;135249;VKB - Saarbrücken;Fahrt;
+Thu;24.05.2018.16:30;135116;VKB - Saarbrücken;Thu;24.05.2018.17:15;135181;TimeTec - Queidersbach;Fahrt;
+Thu;24.05.2018.06:00;135051;TimeTec - Queidersbach;Thu;24.05.2018.06:45;135116;VKB - Saarbrücken;Fahrt;
+Wed;23.05.2018.22:30;135031;JET - Kaiserslautern;Wed;23.05.2018.23:00;135051;TimeTec - Queidersbach;Fahrt;
+Wed;23.05.2018.22:00;135013;TimeTec - Queidersbach;Wed;23.05.2018.22:15;135031;JET - Kaiserslautern;Fahrt;
+Wed;23.05.2018.16:15;134948;VKB - Saarbrücken;Wed;23.05.2018.17:15;135013;TimeTec - Queidersbach;Fahrt;
+Wed;23.05.2018.06:00;134885;TimeTec - Queidersbach;Wed;23.05.2018.07:00;134948;VKB - Saarbrücken;Fahrt;
+Sat;19.05.2018.11:00;134598;VKB - Saarbrücken;Sat;19.05.2018.12:30;134662;TimeTec - Queidersbach;Fahrt;
+Sat;19.05.2018.06:15;134533;TimeTec ;Sat;19.05.2018.07:00;134598;VKB - Saarbrücken;Fahrt;Projektbesprechung - Release R2
+Fri;18.05.2018.15:45;134468;VKB - Saarbrücken ;Fri;18.05.2018.17:00;134533;TimeTec ;Fahrt;
+Fri;18.05.2018.06:00;134400;TimeTec ;Fri;18.05.2018.06:45;134468;VKB - Saarbrücken ;Fahrt;
+Thu;17.05.2018.19:50;134378;JET - Kaiserslautern ;Thu;17.05.2018.20:15;134400;TimeTec ;Fahrt;
+Thu;17.05.2018.19:15;134360;TimeTec ;Thu;17.05.2018.19:30;134378;JET - Kaiserslautern ;Fahrt;
+Thu;17.05.2018.16:00;134293;VKB -Saarbrücken ;Thu;17.05.2018.16:45;134360;TimeTec ;Fahrt;
+Thu;17.05.2018.06:00;134227;TimeTec ;Thu;17.05.2018.06:45;134293;VKB -Saarbrücken ;Fahrt;
+Wed;16.05.2018.16:30;134164;VKB - Saarbrücken ;Wed;16.05.2018.17:15;134227;TimeTec ;Fahrt;
+Wed;16.05.2018.12:00;134099;TimeTec ;Wed;16.05.2018.13:00;134164;VKB - Saarbrücken ;Fahrt;
+Tue;15.05.2018.15:30;133561;Primas - Wolfsburg ;Tue;15.05.2018.22:00;134099;TimeTec ;Fahrt;Stau umd mehrere kleine Umleitungen 
+Mon;14.05.2018.17:35;133557;ESSO - Pirali ;Mon;14.05.2018.17:45;133561;Primas - Wolfsburg ;Fahrt;
+Mon;14.05.2018.17:15;133555;Primas - Wolfsburg ;Mon;14.05.2018.17:20;133557;ESSO - Pirali ;Fahrt;
+Mon;14.05.2018.12:00;133549;BZN - Wolfsburg ;Mon;14.05.2018.12:15;133555;Primas - Wolfsburg ;Fahrt;
+Mon;14.05.2018.08:15;133544;Primas - Wolfsburg ;Mon;14.05.2018.08:30;133549;BZN - Wolfsburg ;Fahrt;
+Sun;13.05.2018.15:59;133034;TimeTec ;Sun;13.05.2018.20:15;133544;Primas - Wolfsburg ;Fahrt;
+Sat;12.05.2018.21:30;133014;JET - Kaiserslautern ;Sat;12.05.2018.21:45;133034;TimeTec ;Fahrt;
+Sat;12.05.2018.21:00;132995;TimeTec ;Sat;12.05.2018.20:15;133014;JET - Kaiserslautern ;Fahrt;
+Fri;11.05.2018.19:40;132731;HEM - Kauserslautern;Fri;11.05.2018.18:51;132750;TimeTec ;Fahrt;
+Fri;11.05.2018.19:00;132714;TimeTec ;Fri;11.05.2018.19:20;132731;HEM - Kauserslautern;Fahrt;
+Fri;11.05.2018.16:15;132648;VKB - Saarbrücken ;Fri;11.05.2018.17:00;132714;TimeTec ;Fahrt;
+Fri;11.05.2018.06:00;132583;TimeTec ;Fri;11.05.2018.06:50;132648;VKB - Saarbrücken ;Fahrt;
+Wed;09.05.2018.15:00;132031;ESSO - Pirali;Wed;09.05.2018.20:15;132502;TimeTec ;Fahrt;
+Wed;09.05.2018.14:40;132029;BZN - Wolfsburg ;Wed;09.05.2018.14:45;132031;ESSO - Pirali;Fahrt;
+Wed;09.05.2018.10:00;132026;Primas - Wolfsburg ;Wed;09.05.2018.10:15;132029;BZN - Wolfsburg ;Fahrt;
+Tue;08.05.2018.12:30;132023;BZN - Wolfsburg ;Tue;08.05.2018.12:45;132026;Primas - Wolfsburg ;Fahrt;
+Tue;08.05.2018.08:45;132020;Primas - Wolfsburg ;Tue;08.05.2018.09:00;132023;BZN - Wolfsburg ;Fahrt;
+Mon;07.05.2018.16:30;132017;BZN - Wolfsburg ;Mon;07.05.2018.16:45;132020;Primas - Wolfsburg ;Fahrt;
+Mon;07.05.2018.14:00;132013;Primas - Wolfsburg ;Mon;07.05.2018.14:15;132017;BZN - Wolfsburg ;Fahrt;
+Mon;07.05.2018.11:45;132009;BZN - Wolfsburg ;Mon;07.05.2018.12:00;132013;Primas - Wolfsburg ;Fahrt;
+Mon;07.05.2018.09:00;132006;Primas - Wolfsburg ;Mon;07.05.2018.09:15;132009;BZN - Wolfsburg ;Fahrt;
+Sun;06.05.2018.15:45;131510;TimeTec;Sun;06.05.2018.20:15;132006;Primas - Wolfsburg ;Fahrt;
+Sat;05.05.2018.18:20;131489;JET - Kaiserslautern ;Sat;05.05.2018.18:45;131510;TimeTec;Fahrt;
+Sat;05.05.2018.19:45;131470;TimeTec;Sat;05.05.2018.18:00;131489;JET - Kaiserslautern ;Fahrt;
+Wed;04.04.2018.15:30;131406;VKB - Saarbrücken;Fri;04.05.2018.16:15;131470;TimeTec;Fahrt;
+Fri;04.05.2018.06:00;131341;TimeTec;Fri;04.05.2018.06:45;131406;VKB - Saarbrücken;Fahrt;
+Thu;03.05.2018.16:30;131099;VKB - Saarbrücken;Thu;03.05.2018.17:30;131166;TimeTec;Fahrt;
+Thu;03.05.2018.06:00;131036;TimeTec;Thu;03.05.2018.06:45;131099;VKB - Saarbrücken;Fahrt;
+Wed;02.05.2018.19:00;131018;JET - Kaiserslautern;Wed;02.05.2018.19:25;131036;TimeTec;Fahrt;
+Wed;02.05.2018.18:30;131000;TimeTec;Wed;02.05.2018.18:45;131018;JET - Kaiserslautern;Fahrt;
+Fri;27.04.2018.17:00;130714;VKB - Saarbrücken;Fri;27.04.2018.17:45;130779;TimeTec;Fahrt;
+Fri;27.04.2018.06:00;130648;TimeTec;Fri;27.04.2018.07:00;130714;VKB - Saarbrücken;Fahrt;
+Wed;25.04.2018.09:00;130615;Rittersbacher - KL;Wed;25.04.2018.09:45;130648;TimeTec;Fahrt;Rittersbacher, abholung Reperatur (Fahwerksfehler) - inklusive Probefahrt
+Sat;21.04.2018.09:00;130591;TimeTec;Sat;21.04.2018.09:40;130615;Rittersbacher - KL;Fahrt;Fahrwerksfehler - Werkstatt Rittersbacher KL
+Fri;20.04.2018.16:30;130527;VKB - Saarbrücken;Fri;20.04.2018.17:15;130591;TimeTec;Fahrt;
+Fri;20.04.2018.06:00;130462;TimeTec;Fri;20.04.2018.06:45;130527;VKB - Saarbrücken;Fahrt;
+Thu;19.04.2018.16:30;130396;VKB - Saarbrücken;Thu;19.04.2018.17:45;130462;TimeTec;Fahrt;
+Thu;19.04.2018.06:00;130327;TimeTec;Thu;19.04.2018.06:45;130396;VKB - Saarbrücken;Fahrt;
+Tue;17.04.2018.16:30;129817;Primas - Wolfsburg ;Tue;17.04.2018.21:00;130327;TimeTec;Fahrt;
+Tue;17.04.2018.12:30;129813;BZN - Wolfsburg ;Tue;17.04.2018.12:40;129817;Primas - Wolfsburg ;Fahrt;
+Tue;17.04.2018.09:40;129810;Primas - Wolfsburg ;Tue;17.04.2018.09:50;129813;BZN - Wolfsburg ;Fahrt;
+Mon;16.04.2018.16:25;129808;Esso -Pirali -WOB ;Mon;16.04.2018.16:30;129810;Primas - Wolfsburg ;Fahrt;
+Mon;16.04.2018.16:10;129805;BZN - Wolfsburg ;Tue;17.04.2018.16:15;129808;Esso -Pirali -WOB ;Fahrt;
+Mon;16.04.2018.15:20;129802;Primas - Wolfsburg ;Mon;16.04.2018.15:30;129805;BZN - Wolfsburg ;Fahrt;PMB - Meeting 
+Mon;16.04.2018.14:15;129798;BZN - Wolfsburg ;Mon;16.04.2018.14:25;129802;Primas - Wolfsburg ;Fahrt;
+Mon;16.04.2018.12:30;129795;Primas - Wolfsburg ;Mon;16.04.2018.12:45;129798;BZN - Wolfsburg ;Fahrt;VW - Bürozentrum Nord
+Sun;15.04.2018.15:15;129267;TimeTec ;Sun;15.04.2018.19:45;129795;Primas - Wolfsburg ;Fahrt;B40 bis Kibo, da Autobahn wegen Bauarbeiten gesperrt.
+Fri;13.04.2018.17:45;129197;VKB - Saarbrücken ;Fri;13.04.2018.18:30;129267;TimeTec ;Fahrt;
+Fri;13.04.2018.06:00;129130;TimeTec;Fri;13.04.2018.06:45;129197;VKB - Saarbrücken ;Fahrt;
+Thu;12.04.2018.16:15;128989;VKB - Saarbrücken;Thu;12.04.2018.17:00;129058;TimeTec;Fahrt;
+Thu;12.04.2018.06:00;128923;TimeTec;Thu;12.04.2018.06:45;128989;VKB - Saarbrücken;Fahrt;
+Wed;11.04.2018.17:30;128911;Esso - Kahrau - Landstuhl;Wed;11.04.2018.18:00;128923;TimeTec;Fahrt;
+Wed;11.04.2018.16:00;128901;TimeTec;Wed;11.04.2018.16:20;128911;Esso - Kahrau - Landstuhl;Fahrt;Reifenwechsel , die kaputte Nuss ist angekommen
+Wed;11.04.2018.10:30;128404;Primas - WOB;Wed;11.04.2018.14:00;128901;TimeTec;Fahrt;
+Sun;08.04.2018.19:45;128401;HEM - Wolfsburg;Sun;08.04.2018.20:00;128404;Primas - WOB;Fahrt;
+Sun;08.04.2018.15:30;127902;TimeTec;Sun;08.04.2018.19:20;128401;HEM - Wolfsburg;Fahrt;
+Sat;07.04.2018.09:00;127889;Esso - Karau - Landstuhl;Sat;07.04.2018.09:20;127902;TimeTec;Fahrt;
+Sat;07.04.2018.08:00;127878;TimeTec;Sat;07.04.2018.08:20;127889;Esso - Karau - Landstuhl;Fahrt;Reifernwechsel zum Herrn Karau - Leider ging Radschlüssel kaputt
+Fri;06.04.2018.16:15;127811;VKB - Saarbrücken;Fri;06.04.2018.17:30;127878;TimeTec;Fahrt;
+Fri;06.04.2018.06:00;127747;TimeTec;Fri;06.04.2018.07:00;127811;VKB - Saarbrücken;Fahrt;
+Thu;05.04.2018.17:15;127680;VKB - Saarbrücken;Thu;05.04.2018.18:00;127747;TimeTec;Fahrt;
+Thu;05.04.2018.06:00;127615;TimeTec;Thu;05.04.2018.06:45;127680;VKB - Saarbrücken;Fahrt;
+Wed;04.04.2018.16:30;127117;Primas - WOB;Wed;04.04.2018.21:00;127615;TimeTec;Fahrt;
+Mon;02.04.2018.20:00;127114;HEM - Wolfsburg;Mon;02.04.2018.20:10;127117;Primas - WOB;Fahrt;
+Mon;02.04.2018.15:30;126618;TimeTec;Mon;02.04.2018.19:45;127114;HEM - Wolfsburg;Fahrt;
+Sat;31.03.2018.11:40;126599;Total - KL;Sat;31.03.2018.12:00;126618;TimeTec;Fahrt;
+Sat;31.03.2018.11:00;126578;TimeTec;Sat;31.03.2018.11:25;126599;Total - KL;Fahrt;
+Fri;30.03.2018.17:15;126515;VKB Saarbrücken;Fri;30.03.2018.18:15;126578;TimeTec;Fahrt;
+Fri;30.03.2018.06:10;126449;TimeTec ;Fri;30.03.2018.07:00;126515;VKB Saarbrücken;Fahrt;
+Thu;29.03.2018.16:30;126386;VKB - Saarbrücken;Thu;29.03.2018.17:15;126449;TimeTec ;Fahrt;
+Thu;29.03.2018.06:00;126322;TimeTec;Thu;29.03.2018.06:45;126386;VKB - Saarbrücken;Fahrt;
+Tue;27.03.2018.16:30;125826;Primas - WOB;Tue;27.03.2018.20:30;126322;TimeTec;Fahrt;
+Tue;27.03.2018.14:30;125823;BZN - Wolfsburg;Tue;27.03.2018.14:45;125826;Primas - WOB;Fahrt;
+Tue;27.03.2018.12:00;125819;Primas - WOB;Tue;27.03.2018.12:10;125823;BZN - Wolfsburg;Fahrt;Rüdiger Sendzig
+Mon;26.03.2018.15:20;125817;ESSO - Pirali;Mon;26.03.2018.15:30;125819;Primas - WOB;Fahrt;
+Mon;26.03.2018.15:00;125815;Primas - WOB;Mon;26.03.2018.15:05;125817;ESSO - Pirali;Fahrt;
+Mon;26.03.2018.14:15;125811;BZN - Wolfsburg;Mon;26.03.2018.14:45;125815;Primas - WOB;Fahrt;
+Mon;26.03.2018.10:00;125806;Primas - WOB;Mon;26.03.2018.10:15;125811;BZN - Wolfsburg;Fahrt;Rüdiger Sendzig
+Sun;25.03.2018.16:30;125310;TimeTec;Sun;25.03.2018.20:30;125806;Primas - WOB;Fahrt;
+Sun;25.03.2018.14:50;125292;Total - KL;Sun;25.03.2018.15:15;125310;TimeTec;Fahrt;
+Sun;25.03.2018.14:15;125275;TimeTec;Sun;25.03.2018.14:30;125292;Total - KL;Fahrt;
+Sat;24.03.2018.16:30;125204;VKB - Saarbrücken;Sat;24.03.2018.18:00;125275;TimeTec;Fahrt;
+Sat;24.03.2018.11:00;125139;TimeTec;Sat;24.03.2018.12:00;125204;VKB - Saarbrücken;Fahrt;
+Fri;23.03.2018.16:10;125072;VKB - Saarbrücken;Fri;23.03.2018.17:00;125139;TimeTec;Fahrt;
+Fri;23.03.2018.06:00;125005;TimeTec;Fri;23.03.2018.06:50;125072;VKB - Saarbrücken;Fahrt;
+Thu;22.03.2018.19:30;124987;JET - Kaiserslautern;Thu;22.03.2018.20:00;125005;TimeTec;Fahrt;
+Thu;22.03.2018.18:15;124913;VKB - Saarbrücken;Thu;22.03.2018.19:20;124987;JET - Kaiserslautern;Fahrt;
+Thu;22.03.2018.06:00;124848;TimeTec;Thu;22.03.2018.06:45;124913;VKB - Saarbrücken;Fahrt;
+Tue;20.03.2018.17:00;124350;Primas - WOB;Tue;20.03.2018.21:30;124848;TimeTec;Fahrt;
+Tue;20.03.2018.16:30;124347;Esso - Pirali;Thu;22.03.2018.16:40;124350;Primas - WOB;Fahrt;
+Tue;20.03.2018.16:15;124345;Primas - WOB;Tue;20.03.2018.16:20;124347;ESSO - Pirali;Fahrt;
+Tue;20.03.2018.15:10;124342;Hotz + Heidmann WOB;Tue;20.03.2018.15:20;124345;Primas - WOB;Fahrt;
+Tue;20.03.2018.06:45;124332;Hotz + Heidmann WOB;Tue;20.03.2018.15:00;124342;Hotz + Heidmann WOB;Fahrt;Probefahrten des Autohaus Hotz und Heidmann
+Mon;19.03.2018.06:30;124330;Primas - WOB;Mon;19.03.2018.06:45;124332;Hotz + Heidmann WOB;Fahrt;Autohaus Hotz und Heidmann - wechsel Frontscheibe - Steinschlag
+Sun;18.03.2018.16:30;123813;TimeTec;Sun;18.03.2018.20:15;124330;Primas - WOB;Fahrt;
+Fri;16.03.2018.16:30;123748;VKB - Saarbrücken;Fri;16.03.2018.17:15;123813;TimeTec;Fahrt;
+Fri;16.03.2018.06:00;123684;TimeTec;Fri;16.03.2018.06:45;123748;VKB - Saarbrücken;Fahrt;
+Thu;15.03.2018.17:20;123661;JET - Kaiserslautern;Thu;15.03.2018.17:40;123684;TimeTec;Fahrt;
+Thu;15.03.2018.16:00;123587;VKB - Saarbrücken;Thu;15.03.2018.17:00;123661;JET - Kaiserslautern;Fahrt;
+Thu;15.03.2018.06:00;123522;TimeTec ;Thu;15.03.2018.06:45;123587;VKB - Saarbrücken;Fahrt;
+Wed;14.03.2018.16:30;123455;VKB - Saarbrücken;Wed;14.03.2018.17:45;123522;TimeTec ;Fahrt;
+Wed;14.03.2018.06:30;123380;TimeTec;Wed;14.03.2018.07:20;123455;VKB - Saarbrücken;Fahrt;Stauumfahrung
+Fri;09.03.2018.16:30;123205;VKB - Saarbrücken;Fri;09.03.2018.17:45;123272;TimeTec;Fahrt;
+Fri;09.03.2018.06:00;123138;TimeTec;Fri;09.03.2018.07:00;123205;VKB - Saarbrücken;Fahrt;
+Thu;08.03.2018.16:20;123073;VKB - Saarbrücken;Thu;08.03.2018.17:10;123138;TimeTec;Fahrt;
+Thu;08.03.2018.06:00;123006;TimeTec;Thu;08.03.2018.06:50;123073;VKB - Saarbrücken;Fahrt;
+Tue;06.03.2018.23:00;122978;KL - Kanalstrasse;Tue;06.03.2018.23:45;123006;TimeTec;Fahrt;
+Sun;04.03.2018.16:00;122958;TimeTec;Sun;04.03.2018.16:30;122978;KL - Kanalstrasse;Fahrt;Parken - Da mit Zug nach WOB gefahren. Auto blieb Montag und Dienstag in KL stehen.
+Sat;03.03.2018.13:30;122940;HEM - Kaiserslautern;Sat;03.03.2018.14:00;122958;TimeTec;Fahrt;
+Sat;03.03.2018.13:00;122921;TimeTec;Sat;03.03.2018.13:15;122940;HEM - Kaiserslautern;Fahrt;
+Fri;02.03.2018.15:00;122850;VKB - Saarbrücken;Fri;02.03.2018.15:50;122921;TimeTec;Fahrt;
+Fri;02.03.2018.06:00;122783;TimeTec;Fri;02.03.2018.06:45;122850;VKB - Saarbrücken;Fahrt;
+Thu;01.03.2018.16:30;122717;VKB - Saarbrücken ;Thu;01.03.2018.17:30;122783;TimeTec;Fahrt;
+Thu;01.03.2018.06:00;122650;TimeTec ;Thu;01.03.2018.06:50;122717;VKB - Saarbrücken ;Fahrt;
+Wed;28.02.2018.16:30;122145;Primas - WOB;Wed;28.02.2018.20:45;122650;TimeTec;Fahrt;
+Tue;27.02.2018.10:30;122117;BZN - Wolfsburg;Tue;27.02.2018.10:45;122121;Primas - WOB;Fahrt;
+Tue;27.02.2018.08:00;122114;Primas - WOB;Tue;27.02.2018.08:15;122117;BZN - Wolfsburg;Fahrt;
+Mon;26.02.2018.18:00;122112;Esso - Pirali;Mon;26.02.2018.18:15;122114;Primas - WOB;Fahrt;
+Mon;26.02.2018.17:40;122110;Primas - WOB;Mon;26.02.2018.17:45;122112;ESSO - Pirali;Fahrt;
+Sun;25.02.2018.16:00;121611;TimeTec;Sun;25.02.2018.20:45;122110;Primas - WOB;Fahrt;
+Sat;24.02.2018.14:40;121590;Total - KL;Sat;24.02.2018.15:00;121611;TimeTec;Fahrt;
+Sat;24.02.2018.14:00;121572;TimeTec;Sat;24.02.2018.14:20;121590;Total - KL;Fahrt;
+Fri;23.02.2018.16:30;121508;VKB - Saarbrücken ;Fri;23.02.2018.17:45;121572;TimeTec;Fahrt;
+Fri;23.02.2018.06:00;121439;TimeTec ;Fri;23.02.2018.07:00;121508;VKB - Saarbrücken ;Fahrt;
+Thu;22.02.2018.16:15;121368;VKB - Saarbrücken ;Thu;22.02.2018.17:00;121439;TimeTec ;Fahrt;
+Thu;22.02.2018.06:00;121300;TimeTec ;Thu;22.02.2018.06:50;121368;VKB - Saarbrücken ;Fahrt;
+Wed;21.02.2018.11:30;120792;Primas - WOB;Wed;21.02.2018.16:00;121300;TimeTec ;Fahrt;
+Mon;19.02.2018.17:25;120711;ESSO - Pirali - WOB;Mon;19.02.2018.17:35;120713;Primas - WOB;Fahrt;
+Mon;19.02.2018.17:00;120709;Primas - WOB;Mon;19.02.2018.17:10;120711;ESSO - Pirali - WOB;Fahrt;
+Mon;19.02.2018.15:15;120705;BZN - Wolfsburg;Mon;19.02.2018.15:30;120709;Primas - WOB;Fahrt;
+Mon;19.02.2018.13:00;120700;Primas - WOB;Mon;19.02.2018.13:10;120705;BZN - Wolfsburg;Fahrt;
+Sun;18.02.2018.16:30;120205;TimeTec;Sun;18.02.2018.20:45;120700;Primas - WOB;Fahrt;
+Fri;16.02.2018.16:08;120099;JET - Kaiserslautern;Fri;16.02.2018.16:30;120120;TimeTec;Fahrt;
+Fri;16.02.2018.15:00;120024;VKB - Saarbrücken;Fri;16.02.2018.16:00;120099;JET - Kaiserslauterm;Fahrt;
+Fri;16.02.2018.06:00;119959;TimeTec;Fri;16.02.2018.07:00;120024;VKB - Saarbrücken;Fahrt;
+Thu;15.02.2018.16:45;119890;VKB - Saarbrücken;Thu;15.02.2018.18:00;119959;TimeTec;Fahrt;
+Thu;15.02.2018.06:00;119825;TimeTec;Thu;15.02.2018.07:00;119890;VKB - Saarbrücken;Fahrt;
+Wed;14.02.2018.11:30;119330;Primas - WOB;Wed;14.02.2018.17:00;119825;TimeTec;Fahrt;
+Tue;13.02.2018.14:45;119325;HEM - Wolfsburg;Tue;13.02.2018.15:00;119330;Primas - WOB;Fahrt;
+Tue;13.02.2018.14:00;119320;Primas - WOB;Tue;13.02.2018.14:15;119325;HEM - Wolfsburg;Fahrt;
+Tue;13.02.2018.12:00;119315;BZN - Wolfsburg;Tue;13.02.2018.12:20;119320;Primas - WOB;Fahrt;
+Tue;13.02.2018.08:00;119309;Primas - WOB;Tue;13.02.2018.08:20;119315;BZN - Wolfsburg;Fahrt;
+Mon;12.02.2018.16:00;119304;BZN - Wolfsburg;Mon;12.02.2018.16:15;119309;Primas - WOB;Fahrt;
+Mon;12.02.2018.14:00;119300;Primas - WOB;Mon;12.02.2018.14:15;119304;BZN - Wolfsburg;Fahrt;
+Mon;12.02.2018.03:30;118801;TimeTec;Mon;12.02.2018.08:30;119300;Primas - WOB;Fahrt;
+Sat;10.02.2018.17:00;118781;HEM - Kaiserslautern;Sat;10.02.2018.17:20;118801;TimeTec;Fahrt;
+Sat;10.02.2018.16:30;118762;TimeTec;Sat;10.02.2018.16:45;118781;HEM - Kaiserslautern;Fahrt;
+Fri;09.02.2018.16:30;118699;VKB - Saarbrücken;Fri;09.02.2018.17:45;118762;TimeTec;Fahrt;
+Fri;09.02.2018.06:00;118636;TimeTec;Fri;09.02.2018.07:00;118699;VKB - Saarbrücken;Fahrt;
+Thu;08.02.2018.16:30;118574;VKB - Saarbrücken;Thu;08.02.2018.17:45;118636;TimeTec;Fahrt;
+Thu;08.02.2018.06:00;118511;TimeTec;Thu;08.02.2018.07:00;118574;VKB - Saarbrücken;Fahrt;
+Wed;07.02.2018.17:15;118375;Frankfurt - Solmsstrasse 83;Wed;07.02.2018.19:00;118511;TimeTec;Fahrt;
+Wed;07.02.2018.13:10;118048;ARAL - Rueningen;Wed;07.02.2018.16:45;118375;Frankfurt - Solmsstrasse 83;Fahrt;Firma TECsystems - Frau Neidhard
+Wed;07.02.2018.12:15;118017;Primas - WOB;Wed;07.02.2018.12:50;118048;ARAL - Rueningen;Fahrt;
+Tue;06.02.2018.12:00;118014;BZN - Wolfsburg;Tue;06.02.2018.12:20;118017;Primas - WOB;Fahrt;
+Tue;06.02.2018.09:00;118010;Primas - WOB;Tue;06.02.2018.09:15;118014;BZN - Wolfsburg;Fahrt;
+Mon;05.02.2018.14:00;118006;BZN - Wolfsburg;Mon;05.02.2018.14:15;118010;Primas - WOB;Fahrt;
+Mon;05.02.2018.10:00;118003;Primas - WOB;Mon;05.02.2018.10:10;118006;BZN - Wolfsburg;Fahrt;
+Mon;05.02.2018.03:30;117506;TimeTec;Mon;05.02.2018.08:20;118003;Primas - WOB;Fahrt;
+Sun;04.02.2018.19:40;117487;JET - Kaiserslautern;Sun;04.02.2018.20:00;117506;TimeTec;Fahrt;
+Sun;04.02.2018.19:00;117467;TimeTec ;Sun;04.02.2018.19:20;117487;JET - Kaiserslautern;Fahrt;
+Fri;02.02.2018.13:00;117396;VKB - Saarbrücken;Fri;02.02.2018.14:00;117467;TimeTec ;Fahrt;
+Fri;02.02.2018.06:00;117327;TimeTec;Fri;02.02.2018.06:50;117396;VKB - Saarbrücken;Fahrt;
+Thu;01.02.2018.19:40;117308;JET - Kaiserslautern;Thu;01.02.2018.20:00;117327;TimeTec;Fahrt;
+Thu;01.02.2018.19:00;117287;TimeTec;Thu;01.02.2018.19:20;117308;JET - Kaiserslautern;Fahrt;
+Thu;01.02.2018.16:45;117220;VKB - Saarbrücken;Thu;01.02.2018.17:50;117287;TimeTec;Fahrt;
+Thu;01.02.2018.06:00;117149;TimeTec;Thu;01.02.2018.06:50;117220;VKB - Saarbrücken;Fahrt;
+Wed;31.01.2018.11:30;116640;Primas - WOB;Wed;31.01.2018.17:30;117149;TimeTec;Fahrt;
+Tue;30.01.2018.16:30;116635;BZN - Wolfsburg;Tue;30.01.2018.16:45;116640;Primas - WOB;Fahrt;
+Tue;30.01.2018.13:30;116631;Primas - WOB;Tue;30.01.2018.13:45;116635;BZN - Wolfsburg;Fahrt;Büro Zentrum Nord in Wolfsburg
+Mon;29.01.2018.17:10;116627;HEM - Wolfsburg;Mon;29.01.2018.17:20;116631;Primas - WOB;Fahrt;
+Mon;29.01.2018.16:40;116623;Primas - WOB;Mon;29.01.2018.16:50;116627;HEM - Wolfsburg;Fahrt;
+Mon;29.01.2018.04:00;116111;TimeTec;Mon;29.01.2018.08:30;116623;Primas - WOB;Fahrt;
+Fri;26.01.2018.17:00;116089;JET - Kaiserslautern;Fri;26.01.2018.17:30;116111;TimeTec;Fahrt;
+Fri;26.01.2018.16:00;116014;VKB - Saarbrücken ;Fri;26.01.2018.16:45;116089;JET - Kaiserslautern;Fahrt;
+Fri;26.01.2018.06:00;115947;TimeTec;Fri;26.01.2018.06:50;116014;VKB - Saarbrücken ;Fahrt;
+Thu;25.01.2018.16:30;115882;VKB - Saarbrücken;Thu;25.01.2018.17:30;115947;TimeTec;Fahrt;
+Thu;25.01.2018.06:00;115814;TimeTec;Thu;25.01.2018.07:00;115882;VKB - Saarbrücken;Fahrt;
+Wed;24.01.2018.10:15;115319;ESSO - Pirali;Wed;24.01.2018.17:00;115814;TimeTec;Fahrt;
+Wed;24.01.2018.09:50;115318;Primas - WOB;Wed;24.01.2018.10:00;115319;ESSO - Pirali;Fahrt;
+Tue;23.01.2018.04:00;114816;TimeTec;Tue;23.01.2018.09:00;115318;Primas - WOB;Fahrt;
+Mon;22.01.2018.16:30;114746;VKB - Saarbrücken;Mon;22.01.2018.18:00;114816;TimeTec;Fahrt;
+Mon;22.01.2018.06:00;114677;TimeTec;Mon;22.01.2018.07:00;114746;VKB - Saarbrücken;Fahrt;
+Fri;19.01.2018.20:00;114657;AGIP - Kaiserslautern;Fri;19.01.2018.20:30;114677;TimeTec;Fahrt;
+Fri;19.01.2018.18:30;114582;VKB - Saarbrücken;Fri;19.01.2018.19:45;114657;AGIP - Kaiserslautern;Fahrt;
+Fri;19.01.2018.06:00;114513;TimeTec ;Fri;19.01.2018.07:00;114582;VKB - Saarbrücken;Fahrt;
+Thu;18.01.2018.16:00;114443;VKB - Saarbrücken ;Thu;18.01.2018.17:00;114513;TimeTec ;Fahrt;
+Thu;18.01.2018.06:00;114375;TimeTec ;Thu;18.01.2018.07:00;114443;VKB - Saarbrücken ;Fahrt;
+Wed;17.01.2018.13:50;113914;Aral - Rüningen - BS;Wed;17.01.2018.19:00;114375;TimeTec ;Fahrt;
+Wed;17.01.2018.13:00;113875;Primas - Wolfsburg ;Wed;17.01.2018.13:30;113914;Aral - Rüningen - BS;Fahrt;
+Sun;14.01.2018.15:15;113381;TimeTec;Sun;14.01.2018.19:45;113875;Primas - Wolfsburg ;Fahrt;
+Wed;17.01.2018.19:40;113362;AGIP - Kaiserslautern ;Fri;12.01.2018.20:00;113381;TimeTec ;Fahrt;
+Fri;12.01.2018.18:00;113279;VKB - Saarbrücken ;Fri;12.01.2018.19:15;113362;AGIP - Kaiserslautern ;Fahrt;
+Fri;12.01.2018.06:00;113208;TimeTec ;Fri;12.01.2018.06:45;113279;VKB - Saarbrücken ;Fahrt;
+Thu;11.01.2018.15:30;113140;VKB – Saarbrücken ;Thu;11.01.2018.16:45;113208;TimeTec;Fahrt;
+Thu;11.01.2018.06:00;113077;TimeTec ;Thu;11.01.2018.06:50;113140;VKB - Saarbrücken ;Fahrt;
+Wed;10.01.2018.11:30;112579;Primas - Wolfsburg ;Wed;10.01.2018.18:30;113077;TimeTec ;Fahrt;
+Tue;09.01.2018.18:00;112577;Esso - Pirali - WOB;Tue;09.01.2018.18:15;112579;Primas - Wolfsburg;Fahrt;
+Tue;09.01.2018.17:45;112576;Primas - Wolfsburg ;Tue;09.01.2018.17:50;112577;Esso - Pirali - WOB;Fahrt;
+Sun;07.01.2018.15:00;112100;TimeTec;Sun;07.01.2018.19:30;112576;Primas - Wolfsburg;Fahrt;
+Sat;06.01.2018.16:15;112079;AGIP - Kaiserslautern;Fri;06.01.2017.16:30;112100;TimeTec;Fahrt;
+Sat;06.01.2018.15:45;112060;TimeTec;Sat;06.01.2018.16:00;112079;AGIP - Kaiserslautern;Fahrt;
+Thu;04.01.2018.12:30;111935;VKB - Saarbrücken ;Thu;04.01.2018.13:45;111999;TimeTec;Fahrt;
+Thu;04.01.2018.06:00;111869;TimeTec;Thu;04.01.2018.07:10;111935;VKB - Saarbrücken ;Fahrt;
+Fri;22.12.2017.19:10;111320;AGIP - Kaiserslautern;Fri;22.12.2017.19:30;111342;TimeTec;Fahrt;
+Fri;22.12.2017.18:45;111302;TimeTec;Fri;22.12.2017.19:00;111320;AGIP - Kaiserslautern;Fahrt;
+Fri;22.12.2017.12:00;111233;VKB - Saarbrücken;Fri;22.12.2017.13:15;111302;TimeTec;Fahrt;
+Fri;22.12.2017.06:00;111167;TimeTec;Fri;22.12.2017.07:00;111233;VKB - Saarbrücken;Fahrt;
+Thu;21.12.2017.16:30;111100;VKB - Saarbrücken;Thu;21.12.2017.18:00;111167;TimeTec;Fahrt;
+Thu;21.12.2017.06:00;111035;TimeTec ;Thu;21.12.2017.06:50;111100;VKB - Saarbrücken;Fahrt;Projekt VKB in Saarbrücken
+Wed;20.12.2017.12:30;110534;Primas - Wolfsburg;Wed;20.12.2017.18:30;111035;TimeTec ;Fahrt;
+Tue;19.12.2017.09:00;110528;Hotz-Heitmann - WOB;Tue;19.12.2017.09:30;110534;Primas - Wolfsburg;Fahrt;Inclusive Probefahrt nach Inspektion
+Mon;18.12.2017.10:15;110510;Primas - Wolfsburg;Mon;18.12.2017.10:30;110528;Hotz-Heitmann - WOB;Fahrt;Inclusive Probefahrt zum Besprechen des notwendigen Services
+Sun;17.12.2017.19:50;110507;HEM - Wolfsburg;Sun;17.12.2017.18:00;110510;Primas - Wolfsburg;Fahrt;
+Sun;17.12.2017.19:30;110503;Primas - WOB;Sun;17.12.2017.19:40;110507;HEM - Wolfsburg;Fahrt;
+Sun;17.12.2017.15:00;110025;TimeTec ;Sun;17.12.2017.19:30;110503;Primas - WOB;Fahrt;
+Fri;15.12.2017.15:40;109963;JET - Kaiserslautern;Fri;15.12.2017.16:00;109980;TimeTec;Fahrt;
+Fri;15.12.2017.14:30;109892;VKB - Saarbrücken;Fri;15.12.2017.15:30;109963;JET - Kaiserslautern;Fahrt;
+Fri;15.12.2017.05:45;109828;TimeTec;Fri;15.12.2017.06:45;109892;VKB - Saarbrücken;Fahrt;
+Thu;14.12.2017.16:45;109762;VKB - Saarbrücken;Thu;14.12.2017.17:30;109828;TimeTec;Fahrt;
+Thu;14.12.2017.06:00;109700;TimeTec;Thu;14.12.2017.07:00;109762;VKB - Saarbrücken;Fahrt;
+Wed;13.12.2017.12:30;109211;Primas - WOB;Wed;13.12.2017.20:15;109700;TimeTec;Fahrt;
+Mon;11.12.2017.16:55;109209;ESSO - Pirali - WOB;Mon;11.12.2017.17:00;109211;Primas - Wolfsburg;Fahrt;
+Tue;12.12.2017.16:40;109208;Primas - WOB;Mon;11.12.2017.16:45;109209;ESSO - Pirali - WOB;Fahrt;
+Sun;10.12.2017.15:15;108720;Total - Station - KL;Sun;10.12.2017.21:30;109208;Primas - Wolfsburg;Fahrt;
+Sun;10.12.2017.14:45;108702;TimeTec;Sun;10.12.2017.15:00;108720;Total - Station - KL;Fahrt;
+Fri;08.12.2017.16:30;108636;VKB - Saarbrücken ;Fri;08.12.2017.17:15;108702;TimeTec ;Fahrt;
+Fri;08.12.2017.06:00;108569;TimeTec ;Fri;08.12.2017.06:45;108636;VKB - Saarbrücken ;Fahrt;
+Thu;07.12.2017.16:30;108505;VKB - Saarbrücken ;Thu;07.12.2017.17:30;108569;TimeTec ;Fahrt;
+Thu;07.12.2017.06:00;108440;TimeTec;Thu;07.12.2017.07:15;108505;VKB - Saarbrücken ;Fahrt;
+Wed;06.12.2017.12:30;107947;Primas - WOB;Wed;06.12.2017.18:30;108440;TimeTec;Fahrt;
+Tue;05.12.2017.16:55;107945;Esso - Pirali - WOB;Tue;05.12.2017.17:05;107947;Primas - WOB;Fahrt;
+Tue;05.12.2017.16:30;107944;Primas - WOB;Tue;05.12.2017.17:40;107945;Esso - Pirali - WOB;Fahrt;
+Sun;03.12.2017.10:00;107448;TimeTec ;Sun;03.12.2017.15:30;107944;Primas - WOB;Fahrt;
+Fri;01.12.2017.22:15;107430;JET - Kaiserslautern ;Fri;01.12.2017.22:45;107448;TimeTec ;Fahrt;
+Fri;01.12.2017.21:00;107357;VKB - Saarbrücken ;Fri;01.12.2017.22:00;107430;JET - Kaiserslautern ;Fahrt;
+Fri;01.12.2017.06:00;107289;TimeTec ;Fri;01.12.2017.06:45;107357;VKB - Saarbrücken ;Fahrt;
+Thu;30.11.2017.16:45;107225;VKB - Saarbrücken ;Thu;30.11.2017.17:45;107289;TimeTec ;Fahrt;
+Thu;30.11.2017.06:15;107160;TimeTec;Thu;30.11.2017.07:45;107225;VKB - Saarbrücken ;Fahrt;
+Wed;29.11.2017.12:30;106663;Primas - WOB;Wed;29.11.2017.18:45;107160;TimeTec;Fahrt;
+Tue;28.11.2017.17:10;106661;Esso - Pirali - WOB;Tue;28.11.2017.17:20;106663;Primas - WOB;Fahrt;
+Tue;28.11.2017.16:45;106660;Primas - Wolfsburg;Tue;28.11.2017.16:55;106661;Esso - Pirali - WOB;Fahrt;
+Sun;26.11.2017.15:00;106168;TimeTec;Sun;26.11.2017.19:30;106660;Primas - Wolfsburg;Fahrt;
+Sat;25.11.2017.12:45;106150;JET - Kaiserslautern;Sat;25.11.2017.13:15;106168;TimeTec;Fahrt;
+Sat;25.11.2017.12:15;106131;TimeTec;Sat;25.11.2017.12:30;106150;JET - Kaiserslautern;Fahrt;
+Fri;24.11.2017.16:30;106069;VKB - Saarbrücken;Fri;24.11.2017.17:30;106131;TimeTec;Fahrt;
+Fri;24.11.2017.06:15;106004;TimeTec;Fri;24.11.2017.07:15;106069;VKB - Saarbrücken;Fahrt;
+Thu;23.11.2017.17:30;105939;VKB - Saarbrücken;Thu;23.11.2017.18:30;106004;TimeTec;Fahrt;
+Thu;23.11.2017.07:30;105875;TimeTec;Thu;23.11.2017.08:20;105939;VKB - Saarbrücken;Fahrt;
+Wed;22.11.2017.12:00;105382;Primas - Wolfsburg;Wed;22.11.2017.18:00;105875;TimeTec;Fahrt;
+Tue;21.11.2017.16:35;105379;ESSO - Pirali - WOB;Tue;21.11.2017.16:40;105382;Primas - Wolfsburg;Fahrt;
+Tue;21.11.2017.16:15;105378;Primas - Wolfsburg;Tue;21.11.2017.16:20;105379;ESSO - Pirali - WOB;Fahrt;
+Sun;19.11.2017.15:00;104881;TimeTec;Sun;19.11.2017.20:15;105378;Primas - Wolfsburg;Fahrt;
+Sat;18.11.2017.18:20;104861;JET - Kaiserslautern;Sat;18.11.2017.18:45;104881;TimeTec;Fahrt;
+Sat;18.11.2017.17:50;104843;TimeTec ;Sat;18.11.2017.18:05;104861;JET - Kaiserslautern;Fahrt;
+Thu;16.11.2017.16:00;104348;Primas - WOB;Thu;16.11.2017.21:00;104843;TimeTec ;Fahrt;
+Tue;14.11.2017.18:45;104342;HEM - WOB;Tue;14.11.2017.19:00;104348;Primas - WOB;Fahrt;
+Tue;14.11.2017.18:15;104338;Primas - WOB;Tue;14.11.2017.18:30;104342;HEM - WOB;Fahrt;
+Fri;10.11.2017.14:20;103868;Total Station - KL;Sun;12.11.2017.19:45;104338;Primas - WOB;Fahrt;
+Sun;12.11.2017.13:30;103848;TimeTec ;Sun;12.11.2017.14:00;103868;Total Station - KL;Fahrt;
+Fri;10.11.2017.19:00;103783;Saarbrücken - VKB;Fri;10.11.2017.20:15;103848;TimeTec ;Fahrt;
+Fri;10.11.2017.13:00;103718;TimeTec;Fri;10.11.2017.14:15;103783;Saarbrücken - VKB;Fahrt;
+Thu;09.11.2017.15:30;103223;Primas - Wolfsburg ;Thu;09.11.2017.21:15;103718;TimeTec;Fahrt;
+Tue;07.11.2017.16:30;103220;Esso - Pirali;Tue;07.11.2017.16:45;103223;Primas - Wolfsburg ;Fahrt;
+Tue;07.11.2017.16:15;103218;Primas - Wolfsburg ;Tue;07.11.2017.16:20;103220;Esso - Pirali;Fahrt;
+Sun;05.11.2017.15:15;102713;TimeTec ;Sun;05.11.2017.20:00;103218;Primas - Wolfsburg ;Fahrt;
+Fri;03.11.2017.11:30;102218;Primas - Wolfsburg;Fri;03.11.2017.16:30;102713;TimeTec ;Fahrt;
+Wed;01.11.2017.17:40;102216;ESSO - Pirali;Wed;01.11.2017.17:50;102218;Primas - Wolfsburg;Fahrt;
+Wed;01.11.2017.17:15;102215;Primas - Wolfsburg;Wed;01.11.2017.17:30;102216;ESSO - Pirali;Fahrt;
+Tue;31.10.2017.15:45;101736;TimeTec;Tue;31.10.2017.21:00;102215;Primas - Wolfsburg;Fahrt;
+Mon;30.10.2017.21:45;101718;ELAN Tankpubkt KL;Mon;30.10.2017.22:00;101736;TimeTec;Fahrt;
+Mon;30.10.2017.21:00;101700;TimeTec;Mon;30.10.2017.21:15;101718;ELAN Tankpubkt KL;Fahrt;
+Thu;26.10.2017.16:15;101203;Primas - Wolfsburg ;Thu;26.10.2017.20:45;101700;TimeTec;Fahrt;
+Wed;25.10.2017.17:10;101201;Esso - Pirali - WOB;Wed;25.10.2017.17:20;101203;Primas - Wolfsburg ;Fahrt;
+Wed;25.10.2017.16:45;101200;Primas - Wolfsburg ;Wed;25.10.2017.16:55;101201;Esso - Pirali - WOB;Fahrt;
+Sun;22.10.2017.15:20;100735;Total - Kaiserslautern;Sun;22.10.2017.20:00;101200;Primas - Wolfsburg ;Fahrt;
+Sun;22.10.2017.14:45;100715;TimeTec;Sun;22.10.2017.15:00;100735;Total - Kaiserslautern;Fahrt;
+Thu;19.10.2017.16:00;100218;Primas - Wolfsburg;Thu;19.10.2017.20:30;100715;TimeTec;Fahrt;
+Tue;17.10.2017.17:40;100216;Esso - Pirali - WOB;Tue;17.10.2017.17:50;100218;Primas - Wolfsburg;Fahrt;
+Tue;17.10.2017.17:15;100215;Primas- Wolfsburg;Tue;17.10.2017.17:25;100216;Esso - Pirali - WOB;Fahrt;
+Sun;15.10.2017.15:40;99750;Total - Kaiserslautern ;Sun;15.10.2017.20:45;100215;Primas- Wolfsburg;Fahrt;
+Sun;15.10.2017.15:00;99730;TimeTec ;Sun;15.10.2017.15:20;99750;Total Kaiserslautern ;Fahrt;
+Fri;13.10.2017.12:00;99234;Primas - WOB;Fri;13.10.2017.17:30;99730;TimeTec ;Fahrt;
+Wed;11.10.2017.17:10;99232;Esso - Pirali - WOB;Wed;11.10.2017.17:20;99234;Primas - WOB;Fahrt;
+Wed;11.10.2017.16:50;99231;Primas Wolfsburg ;Wed;11.10.2017.16:31;99232;Esso - Pirali - WOB;Fahrt;
+Sun;08.10.2017.15:00;98703;TimeTec;Sun;08.10.2017.20:30;99231;Primas Wolfsburg ;Fahrt;Autobahn von KL bis KIBo gesperrt. Neue Autobahndecke
+Sat;07.10.2017.19:30;98687;AGIP - Kaiserslautern;Sat;07.10.2017.20:00;98703;TimeTec;Fahrt;
+Sat;07.10.2017.19:00;98670;TimeTec;Sat;07.10.2017.19:20;98687;AGIP - Kaiserslautern;Fahrt;
+Fri;22.09.2017.17:40;97911;AGIP Kaiserslautern;Fri;22.09.2017.18:00;97928;TimeTec;Fahrt;
+Fri;22.09.2017.17:10;97895;TimeTec;Fri;22.09.2017.17:25;97911;AGIP Kaiserslautern;Fahrt;
+Thu;21.09.2017.16:00;97377;Primas Wolfsburg;Thu;21.09.2017.22:30;97895;TimeTec;Fahrt;Goettingen Fahrbahnerneuerung dann ueber Fulda
+Mon;18.09.2017.17:45;97375;Esso Pirali Wolfsburg;Mon;18.09.2017.18:00;97377;Primas Wolfsburg;Fahrt;
+Mon;18.09.2017.17:35;97374;Primas - Wolfsburg;Mon;18.09.2017.17:40;97375;Esso Pirali Wolfsburg;Fahrt;
+Sun;17.09.2017.15:15;96880;TimeTec;Sun;17.09.2017.20:30;97374;Primas - Wolfsburg;Fahrt;Stauumfahrung - Kassler Bergre - Grosse erste Linkskurve abgeschnitten dadurch 
+Sat;16.09.2017.22:15;96865;AGIP - Kaiserslautern ;Sat;16.09.2017.22:45;96880;TimeTec;Fahrt;
+Sat;16.09.2017.21:40;96851;TimeTec;Sat;16.09.2017.22:00;96865;AGIP -Kaiserslautern ;Fahrt;
+Fri;15.09.2017.19:00;96842;Steuer - Bertollaccini;Fri;15.09.2017.19:20;96851;TimeTec;Fahrt;
+Fri;15.09.2017.18:00;96832;TimeTec;Fri;15.09.2017.18:30;96842;Steuer - Bertollaccini;Fahrt;
+Thu;14.09.2017.15:30;96338;Primas - Wolfsburg;Thu;14.09.2017.21:30;96832;TimeTec;Fahrt;
+Wed;13.09.2017.17:15;96336;Esso - Pirali - Wolfsburg;Wed;13.09.2017.17:20;96338;Primas - Wolfsburg;Fahrt;
+Wed;13.09.2017.16:45;96335;Primas - Wolfsburg;Wed;13.09.2017.16:55;96336;Esso - Pirali - Wolfsburg;Fahrt;
+Sun;10.09.2017.15:30;95841;TimeTec;Sun;10.09.2017.20:30;96335;Primas - Wolfsburg;Fahrt;
+Sat;09.09.2017.16:45;95826;HEM Kaiserslautern ;Sat;09.09.2017.17:15;95841;TimeTec;Fahrt;
+Sat;09.09.2017.16:00;95812;TimeTec ;Sat;09.09.2017.16:30;95826;HEM Kaiserslautern ;Fahrt;
+Thu;07.09.2017.18:00;95325;Primas - Wolfsburg ;Thu;07.09.2017.22:00;95812;TimeTec ;Fahrt;
+Tue;05.09.2017.17:45;95323;Esso -Pirali - WOB;Tue;05.09.2017.17:55;95325;Primas - Wolfsburg ;Fahrt;
+Tue;05.09.2017.17:30;95321;Primas - Wolfsburg;Tue;05.09.2017.17:35;95323;Esso -Pirali - WOB;Fahrt;
+Sun;03.09.2017.15:30;94831;TimeTec;Sun;03.09.2017.20:30;95321;Primas - Wolfsburg;Fahrt;
+Sat;02.09.2017.22:30;94773;Bastenhaus - Rockenhausen;Sat;02.09.2017.23:30;94831;TimeTec;Fahrt;
+Sat;02.09.2017.17:00;94719;TimeTec;Sat;02.09.2017.17:45;94773;Bastenhaus - Rockenhausen;Fahrt;Projektbesprechung - Werner Horn
+Tue;29.08.2017.14:50;94710;Landstuhl Bertollaccini;Tue;29.08.2017.15:10;94719;TimeTec;Fahrt;
+Tue;29.08.2017.14:00;94699;TimeTec;Tue;29.08.2017.14:30;94710;Landstuhl Bertollaccini;Fahrt;Abgabe Steuerunterlagen
+Sat;26.08.2017.12:50;94682;JET Mainz. Kaiserslautern;Sat;26.08.2017.13:15;94699;TimeTec;Fahrt;
+Sat;26.08.2017.12:15;94664;TimeTec;Sat;26.08.2017.12:35;94682;JET Mainz. Kaiserslautern;Fahrt;
+Thu;24.08.2017.15:30;94169;Wolfsburg Primas;Thu;24.08.2017.20:45;94664;TimeTec;Fahrt;
+Tue;22.08.2017.17:35;94167;HEM Wolfsburg ;Tue;22.08.2017.17:45;94169;Wolfsburg Primas;Fahrt;
+Tue;22.08.2017.17:20;94164;Wolfsburg Primas;Tue;22.08.2017.17:25;94167;HEM Wolfsburg ;Fahrt;
+Sun;20.08.2017.11:00;93687;Total Kaiserslautern;Sun;20.08.2017.20:00;94164;Wolfsburg Primas;Fahrt;
+Sun;20.08.2017.10:30;93669;TimeTec;Sun;20.08.2017.10:50;93687;Total Kaiserslautern;Fahrt;
+Fri;18.08.2017.17:00;93580;Haßloch Awacs;Fri;18.08.2017.18:15;93669;TimeTec;Fahrt;
+Fri;18.08.2017.14:15;93495;TimeTec ;Fri;18.08.2017.15:15;93580;Haßloch Awacs;Fahrt;Projektbesprechung mit Herrn Horn (Tester von SQS)
+Thu;17.08.2017.15:37;93012;Wolfsburg Primas;Thu;17.08.2017.20:45;93495;TimeTec ;Fahrt;
+Tue;15.08.2017.20:20;93010;Esso Pirali WOB;Tue;15.08.2017.20:25;93012;Wolfsburg Primas;Fahrt;
+Tue;15.08.2017.20:10;93009;Wolfsburg Primas;Tue;15.08.2017.20:15;93010;Esso Pirali WOB;Fahrt;
+Sun;13.08.2017.15:00;92536;TimeTec;Sun;13.08.2017.20:00;93009;Wolfsburg Primas;Fahrt;Kassler Berge fast nur Landstrasse wegen Baustellen 
+Sat;12.08.2017.18:30;92520;JET B40 Kaiserslautern;Sat;12.08.2017.19:00;92536;TimeTec;Fahrt;
+Sat;12.08.2017.18:00;92503;TimeTec;Sat;12.08.2017.18:20;92520;JET B40 Kaiserslautern;Fahrt;
+Fri;11.08.2017.10:30;92018;Wolfsburg Primas;Fri;11.08.2017.15:45;92503;TimeTec;Fahrt;Kassler Berge ein Teil Abkürzung wegen Bauarbeiten 
+Mon;07.08.2017.19:05;92016;Esso Pirali WOB;Mon;07.08.2017.19:15;92018;Wolfsburg Primas;Fahrt;Esso Pirali
+Mon;07.08.2017.18:50;92015;Wolfsburg-Primas;Mon;07.08.2017.19:00;92016;Esso-Pirali;Fahrt;
+Sun;06.08.2017.15:45;91539;Total - Kaiserslautern;Sun;06.08.2017.20:00;92015;Wolfsburg - Primas;Fahrt;
+Sun;06.08.2017.15:01;91519;TimeTec ;Sun;06.08.2017.15:30;91539;Total - Kaiserslautern ;Fahrt;
+Sat;05.08.2017.22:00;91509;Landstuhl - Schlosshotel;Sun;06.08.2017.22:20;91519;TimeTec;Fahrt;
+Sat;05.08.2017.17:45;91500;TimeTec;Sun;06.08.2017.18:00;91509;Landstuhl - Schlosshotel;Fahrt;Mitarbeitergespräch
+Thu;03.08.2017.15:30;91003;Wolfsburg - Primas;Thu;03.08.2017.20:45;91500;TimeTec;Fahrt;
+Tue;01.08.2017.16:30;91001;Wolfsburg - Esso - Pirali;Thu;03.08.2017.16:35;91003;Wolfsburg - Primas;Fahrt;
+Tue;01.08.2017.16:15;91000;Wolfsburg - Primas;Tue;01.08.2017.16:20;91001;Wolfsburg - Esso - Pirali;Fahrt;
+Sun;30.07.2017.15:15;90455;TimeTec;Sun;30.07.2017.20:15;91000;Wolfsburg - Primas;Fahrt;
+Fri;28.07.2017.17:25;90437;Jet - Kaiserslautern;Fri;28.07.2017.17:55;90455;TimeTec;Fahrt;
+Fri;28.07.2017.17:00;90420;TimeTec;Fri;28.07.2017.17:15;90437;Jet - Kaiserslautern;Fahrt;
+Fri;28.07.2017.15:00;90411;Landstuhl - Bertollaccini;Fri;28.07.2017.15:20;90420;TimeTec;Fahrt;
+Fri;28.07.2017.14:00;90402;TimeTec;Fri;28.07.2017.14:25;90411;Landstuhl - Bertollaccini;Fahrt;
+Thu;27.07.2017.15:30;89906;Wolfsburg - Primas;Thu;27.07.2017.20:45;90402;TimeTec;Fahrt;
+Mon;24.07.2017.16:30;89810;GOD-Braunschweig;Mon;24.07.2017.17:10;89845;Wolfsburg-Primas;Fahrt;
+Mon;24.07.2017.15:14;89777;Wolfsburg-Primas;Mon;24.07.2017.15:45;89810;GOD-Braunschweig;Fahrt;
+Sun;23.07.2017.22:05;89775;Esso-Pirali-Wolfsburg;Sun;23.07.2017.22:15;89777;Wolfsburg-Primas;Fahrt;
+Sun;23.07.2017.17:30;89281;TimeTec;Sun;23.07.2017.21:55;89775;Esso-Pirali-Wolfsburg;Fahrt;
+Fri;21.07.2017.21:45;89265;Jet-Kaiserslautern;Fri;21.07.2017.21:55;89281;TimeTec;Fahrt;
+Fri;21.07.2017.21:15;89248;TimeTec;Fri;21.07.2017.21:35;89265;Jet-Kaiserslautern;Fahrt;
+Thu;20.07.2017.16:00;88751;Wolfsburg-Primas;Thu;20.07.2017.20:45;89248;TimeTec;Fahrt;
+Wed;19.07.2017.16:45;88749;Esso-Pirali-Wolfsburg;Thu;20.07.2017.16:50;88751;Wolfsburg-Primas;Fahrt;
+Wed;19.07.2017.16:30;88747;Wolfsburg-Primas;Wed;19.07.2017.16:35;88749;Esso-Pirali-Wolfsburg;Fahrt;
+Sun;16.07.2017.15:15;88255;TimeTec;Sun;16.07.2017.20:30;88747;Wolfsburg-Primas;Fahrt;
+Sat;15.07.2017.16:15;88240;Aral-Steinmetz-KL;Sat;15.07.2017.16:30;88255;TimeTec;Fahrt;
+Sat;15.07.2017.15:50;88225;TimeTec;Sun;16.07.2017.16:05;88240;Aral-Steinmetz-KL;Fahrt;
+Thu;13.07.2017.15:30;87728;Wolfsburg-Primas;Thu;13.07.2017.21:00;88225;TimeTec;Fahrt;
+Mon;10.07.2017.17:25;87726;Esso-Pirali-Wolfsburg;Mon;10.07.2017.17:45;87728;Wolfsburg-Primas;Fahrt;
+Mon;10.07.2017.17:10;87725;Wolfsburg-Primas;Mon;10.07.2017.17:15;87726;Esso-Pirali-Wolfsburg;Fahrt;
+Sun;09.07.2017.16:00;87505;Bremen-3D-Druck;Sun;09.07.2017.20:00;87725;Wolfsburg-Primas;Fahrt;
+Thu;06.07.2017.15:30;87182;Wolfsburg-Primas;Thu;06.07.2017.21:00;87400;Bremen-3D-Druck;Fahrt;
+Sun;02.07.2017.15:00;86685;TimeTec;Sun;02.07.2017.20:15;87182;Wolfsburg-Primas;Fahrt;
+Thu;29.06.2017.15:30;86190;Wolfsburg-Primas;Thu;29.06.2017.21:00;86685;TimeTec;Fahrt;
+Sun;25.06.2017.15:50;85691;TimeTec;Sun;25.06.2017.20:15;86190;Wolfsburg-Primss;Fahrt;
+Sat;24.06.2017.21:50;85674;JET-Kaiserslautern;Sat;24.06.2017.22:05;85691;TimeTec;Fahrt;
+Sat;24.06.2017.21:15;85657;TimeTec;Sat;24.06.2017.21:40;85674;JET-Kaiserslautern;Fahrt;
+Thu;22.06.2017.16:30;85162;Wolfsburg-Primas;Thu;22.06.2017.21:00;85657;TimeTec;Fahrt;
+Wed;21.06.2017.17:50;85160;Wolfsburg-Esso-Pirali;Wed;21.06.2017.17:00;85162;Wolfsburg-Primas;Fahrt;
+Wed;21.06.2017.17:40;85159;Wolfsburg-Primas;Wed;21.06.2017.17:45;85160;Wolfsburg-Esso-Pirali;Fahrt;
+Sun;18.06.2017.10:30;84669;TimeTec;Sun;18.06.2017.16:00;85159;Wolfsburg-Primas;Fahrt;
+Thu;15.06.2017.15:30;84173;Wolfsburg-Primas;Thu;15.06.2017.21:45;84669;TimeTec;Fahrt;
+Wed;14.06.2017.19:40;84171;Wolfsburg-Esso-Pirali;Wed;14.06.2017.19:50;84173;Wolfsburg-Primas;Fahrt;
+Wed;14.06.2017.19:15;84170;Wolfsburg-Primas;Wed;14.06.2017.19:20;84171;Wolfsburg-Esso-Pirali;Fahrt;
+Sun;11.06.2017.15:30;83674;TimeTec;Sun;11.06.2017.20:15;84170;Wolfsburg-Primas;Fahrt;
+Sat;10.06.2017.15:00;83656;JET-Kaiserslautern;Sat;10.06.2017.15:30;83674;TimeTec;Fahrt;
+Sat;10.06.2017.14:00;83640;TimeTec;Sat;10.06.2017.14:45;83656;JET-Kaiserslautern;Fahrt;
+Fri;09.06.2017.03:00;83142;Wolfsburg-Primas;Fri;09.06.2017.08:45;83640;TimeTec;Fahrt;
+Mon;05.06.2017.15:30;82645;TimeTec;Mon;05.06.2017.20:15;83142;Wolfsburg-Primas;Fahrt;
+Sat;03.06.2017.15:45;82627;JET-Kaiserslautern;Sat;03.06.2017.16:10;82645;TimeTec;Fahrt;
+Sat;03.06.2017.15:15;82611;TimeTec;Sat;03.06.2017.15:30;82627;JET-Kaiserslautern;Fahrt;
+Fri;02.06.2017.12:00;82591;Landstuhl-Steuer;Fri;02.06.2017.12:20;82611;TimeTec;Fahrt;
+Fri;02.06.2017.11:15;82573;TimeTec;Fri;02.06.2017.11:30;82591;Landstuhl-Steuer;Fahrt;
+Thu;01.06.2017.15:30;82078;Wolfsburg-Primas;Thu;01.06.2017.20:30;82573;TimeTec;Fahrt;
+Wed;31.05.2017.17:20;82076;Esso-Wolfsburg;Wed;31.05.2017.17:25;82078;Wolfsburg-Primas;Fahrt;
+Wed;31.05.2017.17:00;82075;Wolfsburg-Primas;Wed;31.05.2017.17:15;82076;Esso-Wolfsburg;Fahrt;
+Sun;28.05.2017.15:30;81577;TimeTec;Sun;28.05.2017.20:00;82075;Wolfsburg-Primas;Fahrt;
+Fri;26.05.2017.21:00;81560;JET-Kaiserslautern;Fri;26.05.2017.21:30;81577;TimeTec;Fahrt;
+Fri;26.05.2017.20:30;81542;TimeTec;Fri;26.05.2017.20:50;81560;JET-Kaiserslautern;Fahrt;
+Fri;26.05.2017.11:00;81526;Landstuhl-Steuerberatung;Fri;26.05.2017.11:30;81542;TimeTec;Fahrt;
+Fri;26.05.2017.10:00;81508;TimeTec;Fri;26.05.2017.10:20;81526;Landstuhl-Steuerberatung;Fahrt;
+Wed;24.05.2017.17:30;81000;Wolfsburg-Primas;Wed;24.05.2017.23:32;81475;TimeTec;Fahrt;
+Tue;23.05.2017.17:45;80990;Wolfsburg-Wayhausen-GOD;Tue;23.05.2017.18:10;81000;Wolfsburg-Primas;Fahrt;
+Tue;23.05.2017.16:45;80981;Wolfsburg-Primas;Tue;23.05.2017.17:08;80990;Wolfsburg-Wayhausen-GOD;Fahrt;
+Mon;22.05.2017.13:15;80979;Wolfsburg-Auto-Inspek.;Mon;22.05.2017.14:30;80981;Wolfsburg-Primas;Fahrt;
+Mon;22.05.2017.06:20;80976;Wolfsburg-Primas;Mon;22.05.2017.06:30;80979;Wolfsburg-Auto-Inspek.;Fahrt;
+Sun;21.05.2017.15:30;80495;TimeTec;Sun;21.05.2017.20:45;80976;Wolfsburg-Primas;Fahrt;
+Sat;20.05.2017.21:35;80457;KL-B40-Aral;Sat;20.05.2017.21:50;80483;TimeTec;Fahrt;
+Sat;20.05.2017.21:00;80434;TimeTec;Sat;20.05.2017.21:25;80457;KL-B40-Aral;Fahrt;
+Sat;20.05.2017.17:00;80365;VW-Zentrum-Saarbrücken;Sat;20.05.2017.18:30;80434;TimeTec;Fahrt;
+Sat;20.05.2017.12:30;80302;TimeTec;Sat;20.05.2017.13:15;80365;VW-Zentrum-Saarbrücken;Fahrt;
+Fri;19.05.2017.14:30;80288;Landstuhl-Steuerberaterin;Fri;19.05.2017.15:00;80302;TimeTec;Fahrt;
+Fri;19.05.2017.14:00;80275;TimeTec;Fri;19.05.2017.14:20;80288;Landstuhl-Steuerberaterin;Fahrt;
+Thu;18.05.2017.17:15;79783;Wolfsburg-Primas;Thu;18.05.2017.22:30;80275;TimeTec;Fahrt;
+Wed;17.05.2017.17:15;79781;Wolfsburg-Esso-Pirali;Wed;17.05.2017.17:20;79783;Wolfsburg-Primas;Fahrt;
+Wed;17.05.2017.17:00;79779;Wolfsburg-Primas;Wed;17.05.2017.17:10;79781;Wolfsburg-Esso-Pirali;Fahrt;
+Sun;14.05.2017.15:00;79295;TimeTec;Sun;14.05.2017.19:40;79779;Wolfsburg-Primas;Fahrt;
+Fri;12.05.2017.11:00;78725;Wolfsburg-Primas;Fri;12.05.2017.17:00;79216;TimeTec;Fahrt;
+Sun;07.05.2017.15:00;78261;TimeTec;Sun;07.05.2017.20:15;78725;Wolfsburg-Primas;Fahrt;
+Fri;05.05.2017.10:10;77765;Wolfsburg-Primas;Fri;05.05.2017.15:15;78261;TimeTec;Fahrt;
+Wed;03.05.2017.18:30;77763;Wolfsburg-Esso-Pirali;Wed;03.05.2017.18:35;77765;Wolfsburg-Primas;Fahrt;
+Wed;03.05.2017.18:15;77761;Wolfsburg-Primas;Wed;03.05.2017.18:20;77763;Wolfgang-Esso-Pirali;Fahrt;
+Mon;01.05.2017.15:15;77261;TimeTec;Mon;01.05.2017.20:15;77761;Wolfsburg-Primas;Fahrt;
+Thu;20.04.2017.16:00;75871;Wolfsburg-Primas;Thu;20.04.2017.21:00;76367;TimeTec;Fahrt;
+Wed;19.04.2017.17:45;75868;Wolfsburg-Esso-Pirali;Wed;19.04.2017.17:50;75871;Wolfsburg-Primas;Fahrt;
+Wed;19.04.2017.17:30;75866;Wolfsburg-Primas;Wed;19.04.2017.17:40;75868;Wolfsburg-Esso-Pirali;Fahrt;
+Mon;17.04.2017.15:30;75370;TimeTec;Mon;17.04.2017.20:20;75866;Wolfsburg-Primas;Fahrt;
+Thu;13.04.2017.15:15;74843;Wolfsburg-Primas;Thu;13.04.2017.20:45;75335;TimeTec;Fahrt;
+Sun;09.04.2017.15:30;74345;TimeTec;Sun;09.04.2017.20:20;74843;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Thu;06.04.2017.22:00;74218;Restaurant-Bastenhaus;Thu;06.04.2017.23:05;74269;TimeTec;Fahrt;
+Sat;08.04.2017.18:00;74168;TimeTec;Sat;08.04.2017.18:45;74218;Restaurant-Bastenhaus;Fahrt;Projektbesprechung
+Thu;06.04.2017.15:45;73673;Wolfsburg-Primas;Thu;06.04.2017.20:30;74168;TimeTec;Fahrt;Stauumfahrung
+Sun;02.04.2017.15:30;73100;TimeTec;Sun;02.04.2017.20:30;73599;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Thu;30.03.2017.16:00;72587;Wolfsburg-Primas;Thu;30.03.2017.20:45;73085;TimeTec;Fahrt;Stauumfahrung
+Wed;29.03.2017.18:15;72585;Wolfsburg-Esso-Pirali;Wed;29.03.2017.18:30;72587;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Wed;29.03.2017.18:00;72583;Wolfsburg-Primas;Wed;29.03.2017.18:10;72585;Wolfsburg-Esso-Pirali;Fahrt;
+Mon;27.03.2017.13:00;72458;VW-Salzgitter;Mon;27.03.2017.13:45;72502;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Mon;27.03.2017.08:15;72414;Wolfsburg-Primas;Mon;27.03.2017.09:00;72458;VW-Salzgitter;Fahrt;Stauumfahrung
+Sun;26.03.2017.15:30;71919;TimeTec;Sun;26.03.2017.20:15;72414;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Fri;24.03.2017.16:30;71427;Wolfsburg-Primas;Fri;24.03.2017.20:45;71919;TimeTec;Fahrt;Stauumfahrung
+Thu;23.03.2017.17:40;71425;Wolfsburg-Esso-Pirali;Thu;23.03.2017.17:50;71427;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Thu;23.03.2017.17:30;71420;Wolfsburg-Primas;Thu;23.03.2017.17:35;71425;Wolfsburg-Esso-Pirali;Fahrt;Stauumfahrung
+Tue;21.03.2017.16:00;71391;Braunschweig-GOD;Tue;21.03.2017.18:45;71420;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Tue;21.03.2017.13:00;71362;Wolfsburg-Primas;Tue;21.03.2017.14:00;71391;Braunschweig-GOD;Fahrt;Stauumfahrung
+Mon;20.03.2017.13:00;71269;VW_Hanover_Tor18;Mon;20.03.2017.14:20;71362;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Mon;20.03.2017.08:00;71176;Wolfsburg-Primas;Mon;20.03.2017.09:15;71269;VW_Hanover_Tor18;Fahrt;Stauumfahrung
+Thu;01.01.1970.01:00;70675;TimeTec;Thu;01.01.1970.01:00;71176;Wolfsburg-Primas;Fahrt;Stauumfahrung
+Thu;01.01.1970.01:00;70675;Startparameter;Thu;01.01.1970.01:00;70675;Startparameter;Fahrt;
