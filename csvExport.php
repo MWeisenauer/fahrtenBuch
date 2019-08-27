@@ -10,7 +10,7 @@
 <body>
 
 <?php
-       // connect to mongodb ich bin der neue
+       // connect to mongodb ich bin der neue jetzt aber
        $m = new MongoClient();
        //$_SESSION['$dbName'] = 'Markus_Weisenauer_de_Touareg_V8_TDI_KL-MM_110';
 	     //$_SESSION['$dbName'] = 'Torsten_Kropp_mhp_com_Macan_SOL1338';
